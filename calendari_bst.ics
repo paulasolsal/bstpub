@@ -23,7 +23,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:bst-2026-03-16-mati-cerdanyola-ateneu@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260316T080000
 DTEND;TZID=Europe/Madrid:20260316T140000
 SUMMARY:CERDANYOLA Ateneu (Matí)
@@ -33,7 +33,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta3 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-16-tarda-cerdanyola-ateneu@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260316T150000
 DTEND;TZID=Europe/Madrid:20260316T200000
 SUMMARY:CERDANYOLA Ateneu (Tarda)
@@ -42,7 +42,7 @@ DESCRIPTION:Pendent de confirmar | Observacions: anul·lada vaga metges
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-17-tarda-st-cugat-aps-puresa-de-maria@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260317T150000
 DTEND;TZID=Europe/Madrid:20260317T200000
 SUMMARY:ST. CUGAT APS Puresa de Maria (Tarda)
@@ -52,7 +52,7 @@ DESCRIPTION:Vehicle: Furgoneta5 | Previsió: 50 donacions | Confirmada | Ob
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-19-mati-cerdanyola-stradivarius-9-13h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260319T080000
 DTEND;TZID=Europe/Madrid:20260319T140000
 SUMMARY:CERDANYOLA Stradivarius 9-13h (Matí)
@@ -62,7 +62,7 @@ DESCRIPTION:Vehicle: Furgoneta5 | Previsió: 35 donacions | Confirmada | Ob
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-20-tarda-l-h-santa-eulalia-bus@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260320T150000
 DTEND;TZID=Europe/Madrid:20260320T200000
 SUMMARY:L'H Santa Eulàlia BUS (Tarda)
@@ -71,7 +71,7 @@ DESCRIPTION:Pendent de confirmar | Observacions: E\, anul·lada vaga metges
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-24-mati-terrassa-aps-inst-egara@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260324T080000
 DTEND;TZID=Europe/Madrid:20260324T140000
 SUMMARY:TERRASSA APS Inst.Egara (Matí)
@@ -80,7 +80,7 @@ DESCRIPTION:Vehicle: Furgoneta2 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-24-tarda-cerdanyola-aps-fedac@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260324T150000
 DTEND;TZID=Europe/Madrid:20260324T200000
 SUMMARY:CERDANYOLA APS FEDAC (Tarda)
@@ -89,7 +89,7 @@ DESCRIPTION:Vehicle: Furgoneta6 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-24-tarda-terrassa-aps-inst-egara@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260324T150000
 DTEND;TZID=Europe/Madrid:20260324T200000
 SUMMARY:TERRASSA APS Inst.Egara (Tarda)
@@ -98,7 +98,7 @@ DESCRIPTION:Vehicle: Furgoneta2 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-26-tarda-l-h-aps-bibl-josep-janes-maria-miret@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260326T150000
 DTEND;TZID=Europe/Madrid:20260326T200000
 SUMMARY:L'H APS Bibl.Josep Janes Maria Miret (Tarda)
@@ -107,7 +107,7 @@ DESCRIPTION:Vehicle: Furgoneta3 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-26-tarda-terrassa-aps-escola-ponent@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260326T150000
 DTEND;TZID=Europe/Madrid:20260326T200000
 SUMMARY:TERRASSA APS Escola Ponent (Tarda)
@@ -116,7 +116,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-27-mati-st-cugat-del-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260327T080000
 DTEND;TZID=Europe/Madrid:20260327T140000
 SUMMARY:ST.CUGAT DEL V. Torreblanca (Matí)
@@ -126,7 +126,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-27-tarda-st-cugat-del-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260327T150000
 DTEND;TZID=Europe/Madrid:20260327T200000
 SUMMARY:ST.CUGAT DEL V. Torreblanca (Tarda)
@@ -136,7 +136,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-28-mati-l-h-rambla-marina@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260328T080000
 DTEND;TZID=Europe/Madrid:20260328T140000
 SUMMARY:L'H Rambla Marina (Matí)
@@ -146,7 +146,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-01-mati-st-cugat-aps-esc-crenova@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260401T080000
 DTEND;TZID=Europe/Madrid:20260401T140000
 SUMMARY:ST.CUGAT APS Esc.Crenova (Matí)
@@ -155,7 +155,7 @@ DESCRIPTION:Vehicle: Furgoneta8 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-02-tarda-terrassa-aps-ramon-i-cajal@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260402T150000
 DTEND;TZID=Europe/Madrid:20260402T200000
 SUMMARY:TERRASSA APS Ramon i Cajal (Tarda)
@@ -164,7 +164,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-03-mati-st-cugat-del-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260403T080000
 DTEND;TZID=Europe/Madrid:20260403T140000
 SUMMARY:ST.CUGAT DEL V. Torreblanca (Matí)
@@ -174,7 +174,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta4 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-03-tarda-st-cugat-del-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260403T150000
 DTEND;TZID=Europe/Madrid:20260403T200000
 SUMMARY:ST.CUGAT DEL V. Torreblanca (Tarda)
@@ -184,7 +184,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta4 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-06-mati-cerdanyola@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260406T080000
 DTEND;TZID=Europe/Madrid:20260406T140000
 SUMMARY:CERDANYOLA (Matí)
@@ -194,7 +194,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-06-tarda-cerdanyola@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260406T150000
 DTEND;TZID=Europe/Madrid:20260406T200000
 SUMMARY:CERDANYOLA (Tarda)
@@ -204,7 +204,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-09-mati-l-h-ca-n-arus-fira-salut@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260409T080000
 DTEND;TZID=Europe/Madrid:20260409T140000
 SUMMARY:L'H Ca n'Arus Fira Salut (Matí)
@@ -214,7 +214,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-09-tarda-l-h-ca-n-arus-fira-salut@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260409T150000
 DTEND;TZID=Europe/Madrid:20260409T200000
 SUMMARY:L'H Ca n'Arus Fira Salut (Tarda)
@@ -224,7 +224,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-13-mati-cerdanyola@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260413T080000
 DTEND;TZID=Europe/Madrid:20260413T140000
 SUMMARY:CERDANYOLA (Matí)
@@ -234,7 +234,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-13-tarda-cerdanyola@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260413T150000
 DTEND;TZID=Europe/Madrid:20260413T200000
 SUMMARY:CERDANYOLA (Tarda)
@@ -244,7 +244,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-14-mati-l-h-13h-aps-cfa-can-serra@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260414T080000
 DTEND;TZID=Europe/Madrid:20260414T140000
 SUMMARY:L'H 13h APS CFA Can Serra (Matí)
@@ -253,7 +253,7 @@ DESCRIPTION:Vehicle: Furgoneta3 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-15-tarda-l-h-aps-dolmen@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260415T150000
 DTEND;TZID=Europe/Madrid:20260415T200000
 SUMMARY:L'H APS Dolmen (Tarda)
@@ -262,7 +262,7 @@ DESCRIPTION:Vehicle: Furgoneta6 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-16-tarda-l-h-santa-eulalia@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260416T150000
 DTEND;TZID=Europe/Madrid:20260416T200000
 SUMMARY:L'H Santa Eulàlia (Tarda)
@@ -272,7 +272,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-17-mati-st-cugat-del-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260417T080000
 DTEND;TZID=Europe/Madrid:20260417T140000
 SUMMARY:ST.CUGAT DEL V. Torreblanca (Matí)
@@ -282,7 +282,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta3 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-17-tarda-st-cugat-del-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260417T150000
 DTEND;TZID=Europe/Madrid:20260417T200000
 SUMMARY:ST.CUGAT DEL V. Torreblanca (Tarda)
@@ -291,7 +291,7 @@ DESCRIPTION:Vehicle: Furgoneta3 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-20-tarda-l-h-aps-st-jaume-fep@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260420T150000
 DTEND;TZID=Europe/Madrid:20260420T200000
 SUMMARY:L'H APS St.Jaume FEP (Tarda)
@@ -301,7 +301,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 40 donacions | Confirmada | Ob
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-22-tarda-l-h-a-ps-inst-can-vilumara@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260422T150000
 DTEND;TZID=Europe/Madrid:20260422T200000
 SUMMARY:L'H A pS Inst. Can Vilumara (Tarda)
@@ -311,7 +311,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta8 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-23-tarda-l-h-torre-barrina@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260423T150000
 DTEND;TZID=Europe/Madrid:20260423T200000
 SUMMARY:L'H Torre Barrina (Tarda)
@@ -320,7 +320,7 @@ DESCRIPTION:Vehicle: Furgoneta6 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-02-tarda-st-cugat-aps-esc-thau@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260502T150000
 DTEND;TZID=Europe/Madrid:20260502T200000
 SUMMARY:ST.CUGAT APS Esc.Thau (Tarda)
@@ -329,7 +329,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 60 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-05-tarda-l-h-a-ps-16-20h-pare-enric-d-osso@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260505T150000
 DTEND;TZID=Europe/Madrid:20260505T200000
 SUMMARY:L'H A PS 16-20h Pare Enric d'Osso (Tarda)
@@ -339,7 +339,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta6 | Previsió: 50 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-08-mati-st-cugat-del-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260508T080000
 DTEND;TZID=Europe/Madrid:20260508T140000
 SUMMARY:ST.CUGAT DEL V. Torreblanca (Matí)
@@ -349,7 +349,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-08-tarda-st-cugat-del-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260508T150000
 DTEND;TZID=Europe/Madrid:20260508T200000
 SUMMARY:ST.CUGAT DEL V. Torreblanca (Tarda)
@@ -359,7 +359,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta1 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-11-mati-cerdanyola@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260511T080000
 DTEND;TZID=Europe/Madrid:20260511T140000
 SUMMARY:CERDANYOLA (Matí)
@@ -369,7 +369,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-11-tarda-cerdanyola@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260511T150000
 DTEND;TZID=Europe/Madrid:20260511T200000
 SUMMARY:CERDANYOLA (Tarda)
@@ -379,7 +379,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-12-mati-st-cugat-ajuntament-13h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260512T080000
 DTEND;TZID=Europe/Madrid:20260512T140000
 SUMMARY:ST.CUGAT Ajuntament 13h (Matí)
@@ -388,7 +388,7 @@ DESCRIPTION:Pendent de confirmar | Observacions: E\, VAGA METGES
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-13-mati-st-cugat-uriach-13h-gp@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260513T080000
 DTEND;TZID=Europe/Madrid:20260513T140000
 SUMMARY:ST.CUGAT Uriach 13h GP (Matí)
@@ -397,7 +397,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-19-tarda-l-h-la-florida@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260519T150000
 DTEND;TZID=Europe/Madrid:20260519T200000
 SUMMARY:L'H La Florida (Tarda)
@@ -407,7 +407,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-20-mati-l-h-veepee-privalia-9-13h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260520T080000
 DTEND;TZID=Europe/Madrid:20260520T140000
 SUMMARY:L'H VeePee-Privalia 9-13h (Matí)
@@ -416,7 +416,7 @@ DESCRIPTION:Vehicle: Furgoneta7 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-21-tarda-l-h-sta-eulalia@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260521T150000
 DTEND;TZID=Europe/Madrid:20260521T200000
 SUMMARY:L'H Sta. Eulàlia (Tarda)
@@ -426,7 +426,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-22-mati-st-cugat-del-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260522T080000
 DTEND;TZID=Europe/Madrid:20260522T140000
 SUMMARY:ST.CUGAT DEL V. Torreblanca (Matí)
@@ -436,7 +436,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-22-tarda-st-cugat-del-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260522T150000
 DTEND;TZID=Europe/Madrid:20260522T200000
 SUMMARY:ST.CUGAT DEL V. Torreblanca (Tarda)
@@ -446,7 +446,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-02-mati-st-cugat-aldi-13h-gp@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260602T080000
 DTEND;TZID=Europe/Madrid:20260602T140000
 SUMMARY:ST.CUGAT Aldi 13h GP (Matí)
@@ -455,7 +455,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-05-mati-l-h-santa-eulalia@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260605T080000
 DTEND;TZID=Europe/Madrid:20260605T140000
 SUMMARY:L'H Santa Eulàlia (Matí)
@@ -465,7 +465,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 20 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-05-tarda-l-h-santa-eulalia@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260605T150000
 DTEND;TZID=Europe/Madrid:20260605T200000
 SUMMARY:L'H Santa Eulàlia (Tarda)
@@ -475,7 +475,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-06-mati-terrassa-cn-terrassa@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260606T080000
 DTEND;TZID=Europe/Madrid:20260606T140000
 SUMMARY:TERRASSA CN Terrassa (Matí)
@@ -485,7 +485,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 60 donacions | Pendent de confi
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-08-mati-cerdanyola@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260608T080000
 DTEND;TZID=Europe/Madrid:20260608T140000
 SUMMARY:CERDANYOLA (Matí)
@@ -495,7 +495,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-08-tarda-cerdanyola@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260608T150000
 DTEND;TZID=Europe/Madrid:20260608T200000
 SUMMARY:CERDANYOLA (Tarda)
@@ -505,7 +505,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-13-mati-st-cugat-shop-centre-gk@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260613T080000
 DTEND;TZID=Europe/Madrid:20260613T140000
 SUMMARY:ST.CUGAT Shop.Centre GK (Matí)
@@ -514,7 +514,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-13-tarda-st-cugat-shop-centre-gk@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260613T150000
 DTEND;TZID=Europe/Madrid:20260613T200000
 SUMMARY:ST.CUGAT Shop.Centre GK (Tarda)
@@ -523,7 +523,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-14-mati-bcn-parr-st-ramon-gp-festa-diversitat@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260614T080000
 DTEND;TZID=Europe/Madrid:20260614T140000
 SUMMARY:BCN Parr.St.Ramon GP Festa Diversitat (Matí)
@@ -532,7 +532,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-16-mati-cerdanyola-alba-synch@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260616T080000
 DTEND;TZID=Europe/Madrid:20260616T140000
 SUMMARY:CERDANYOLA Alba Synch. (Matí)
@@ -541,7 +541,7 @@ DESCRIPTION:Vehicle: Furgoneta2 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-19-mati-st-cugat@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260619T080000
 DTEND;TZID=Europe/Madrid:20260619T140000
 SUMMARY:ST.CUGAT (Matí)
@@ -551,7 +551,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-20-mati-l-h-mercat-la-florida@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260620T080000
 DTEND;TZID=Europe/Madrid:20260620T140000
 SUMMARY:L'H Mercat la Florida (Matí)
@@ -561,7 +561,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-22-mati-cerdanyola@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260622T080000
 DTEND;TZID=Europe/Madrid:20260622T140000
 SUMMARY:CERDANYOLA (Matí)
@@ -571,7 +571,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-22-tarda-cerdanyola@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260622T150000
 DTEND;TZID=Europe/Madrid:20260622T200000
 SUMMARY:CERDANYOLA (Tarda)
@@ -581,7 +581,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-23-mati-st-cugat-pl-de-la-vila@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260623T080000
 DTEND;TZID=Europe/Madrid:20260623T140000
 SUMMARY:ST.CUGAT Pl.de la Vila (Matí)
@@ -591,7 +591,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-25-tarda-l-h-santa-eulalia-17-30h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260625T150000
 DTEND;TZID=Europe/Madrid:20260625T200000
 SUMMARY:L'H Santa Eulàlia 17\,30h (Tarda)
@@ -601,7 +601,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-26-mati-st-cugat-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260626T080000
 DTEND;TZID=Europe/Madrid:20260626T140000
 SUMMARY:ST.CUGAT Torreblanca (Matí)
@@ -611,7 +611,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta5 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-26-tarda-st-cugat-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260626T150000
 DTEND;TZID=Europe/Madrid:20260626T200000
 SUMMARY:ST.CUGAT Torreblanca (Tarda)
@@ -621,7 +621,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta5 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-30-tarda-l-h-auditori-barradas@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260630T150000
 DTEND;TZID=Europe/Madrid:20260630T200000
 SUMMARY:L'H Auditori Barradas (Tarda)
@@ -631,7 +631,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta4 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-02-mati-l-h-la-florida@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260702T080000
 DTEND;TZID=Europe/Madrid:20260702T140000
 SUMMARY:L'H La Florida (Matí)
@@ -641,7 +641,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-02-tarda-l-h-la-florida@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260702T150000
 DTEND;TZID=Europe/Madrid:20260702T200000
 SUMMARY:L'H La Florida (Tarda)
@@ -651,7 +651,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-03-tarda-l-h-santa-eulalia@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260703T150000
 DTEND;TZID=Europe/Madrid:20260703T200000
 SUMMARY:L'H Santa Eulàlia (Tarda)
@@ -661,7 +661,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-03-tarda-sbd-casal-pere-quart@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260703T150000
 DTEND;TZID=Europe/Madrid:20260703T200000
 SUMMARY:SBD Casal Pere Quart (Tarda)
@@ -671,7 +671,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta6 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-07-mati-st-cugat-v-maphre-cubs@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260707T080000
 DTEND;TZID=Europe/Madrid:20260707T140000
 SUMMARY:ST.CUGAT V. Maphre Cubs (Matí)
@@ -680,7 +680,7 @@ DESCRIPTION:Vehicle: Furgoneta3 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-09-mati-hospitalet-werfen@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260709T080000
 DTEND;TZID=Europe/Madrid:20260709T140000
 SUMMARY:HOSPITALET Werfen (Matí)
@@ -689,7 +689,7 @@ DESCRIPTION:Vehicle: Furgoneta1 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-09-mati-sbd-dr-robert@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260709T080000
 DTEND;TZID=Europe/Madrid:20260709T140000
 SUMMARY:SBD Dr.Robert (Matí)
@@ -699,7 +699,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-09-tarda-l-h-la-bobila-torre-barrina@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260709T150000
 DTEND;TZID=Europe/Madrid:20260709T200000
 SUMMARY:L'H La Bòbila >> Torre Barrina (Tarda)
@@ -708,7 +708,7 @@ DESCRIPTION:Vehicle: Furgoneta7 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-09-tarda-sbd-dr-robert@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260709T150000
 DTEND;TZID=Europe/Madrid:20260709T200000
 SUMMARY:SBD Dr.Robert (Tarda)
@@ -718,7 +718,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-10-mati-cerdanyola@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260710T080000
 DTEND;TZID=Europe/Madrid:20260710T140000
 SUMMARY:CERDANYOLA (Matí)
@@ -728,7 +728,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-10-mati-st-cugat-pl-octavia-gk@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260710T080000
 DTEND;TZID=Europe/Madrid:20260710T140000
 SUMMARY:ST.CUGAT Pl.Octavià GK (Matí)
@@ -737,7 +737,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-10-tarda-cerdanyola@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260710T150000
 DTEND;TZID=Europe/Madrid:20260710T200000
 SUMMARY:CERDANYOLA (Tarda)
@@ -747,7 +747,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-10-tarda-sbd-cc-gracia@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260710T150000
 DTEND;TZID=Europe/Madrid:20260710T200000
 SUMMARY:SBD CC Gràcia (Tarda)
@@ -756,7 +756,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-10-tarda-sbd-cc-can-llong@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260710T150000
 DTEND;TZID=Europe/Madrid:20260710T200000
 SUMMARY:SBD CC Can Llong (Tarda)
@@ -766,7 +766,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta6 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-10-tarda-st-cugat-pl-octavia-gk@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260710T150000
 DTEND;TZID=Europe/Madrid:20260710T200000
 SUMMARY:ST.CUGAT Pl.Octavià GK (Tarda)
@@ -775,7 +775,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-12-mati-sbd-antic-mercat@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260712T080000
 DTEND;TZID=Europe/Madrid:20260712T140000
 SUMMARY:SBD Antic Mercat (Matí)
@@ -785,7 +785,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta2 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-13-mati-cerdanyola-ateneu@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260713T080000
 DTEND;TZID=Europe/Madrid:20260713T140000
 SUMMARY:CERDANYOLA Ateneu (Matí)
@@ -795,7 +795,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-13-tarda-cerdanyola-ateneu@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260713T150000
 DTEND;TZID=Europe/Madrid:20260713T200000
 SUMMARY:CERDANYOLA Ateneu (Tarda)
@@ -805,7 +805,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-14-mati-cerdanyola-rosagres@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260714T080000
 DTEND;TZID=Europe/Madrid:20260714T140000
 SUMMARY:CERDANYOLA RosaGres (Matí)
@@ -814,7 +814,7 @@ DESCRIPTION:Vehicle: Furgoneta7 | Previsió: 25 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-16-mati-st-cugat-fluidra-8-15h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260716T080000
 DTEND;TZID=Europe/Madrid:20260716T140000
 SUMMARY:ST.CUGAT Fluidra 8-15h (Matí)
@@ -823,7 +823,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-16-mati-st-cugat-grifols@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260716T080000
 DTEND;TZID=Europe/Madrid:20260716T140000
 SUMMARY:ST.CUGAT Grifols (Matí)
@@ -833,7 +833,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta | Previsió: 40 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-17-mati-l-h-granvia-2@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260717T080000
 DTEND;TZID=Europe/Madrid:20260717T140000
 SUMMARY:L'H GranVia 2 (Matí)
@@ -843,7 +843,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta | Previsió: 30 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-17-mati-l-h-sta-eulalia@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260717T080000
 DTEND;TZID=Europe/Madrid:20260717T140000
 SUMMARY:L'H Sta. Eulàlia (Matí)
@@ -853,7 +853,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-17-tarda-l-h-granvia-2@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260717T150000
 DTEND;TZID=Europe/Madrid:20260717T200000
 SUMMARY:L'H GranVia 2 (Tarda)
@@ -863,7 +863,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta | Previsió: 45 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-17-tarda-l-h-sta-eulalia@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260717T150000
 DTEND;TZID=Europe/Madrid:20260717T200000
 SUMMARY:L'H Sta. Eulàlia (Tarda)
@@ -873,7 +873,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-21-mati-l-h-la-florida@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260721T080000
 DTEND;TZID=Europe/Madrid:20260721T140000
 SUMMARY:L'H La Florida (Matí)
@@ -883,7 +883,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-21-tarda-l-h-la-florida@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260721T150000
 DTEND;TZID=Europe/Madrid:20260721T200000
 SUMMARY:L'H La Florida (Tarda)
@@ -893,7 +893,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-21-tarda-l-h-barradas@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260721T150000
 DTEND;TZID=Europe/Madrid:20260721T200000
 SUMMARY:L'H Barradas (Tarda)
@@ -903,7 +903,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta4 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-21-tarda-sbd-cc-can-rull-np@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260721T150000
 DTEND;TZID=Europe/Madrid:20260721T200000
 SUMMARY:SBD CC Can Rull NP (Tarda)
@@ -913,7 +913,7 @@ DESCRIPTION:PF (5 màquines) | Vehicle: Furgoneta2 | Previsió: 0 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-22-tarda-st-cugat-mirasol-gp@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260722T150000
 DTEND;TZID=Europe/Madrid:20260722T200000
 SUMMARY:ST.CUGAT Mirasol GP (Tarda)
@@ -922,7 +922,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-23-mati-sabadell-dr-robert@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260723T080000
 DTEND;TZID=Europe/Madrid:20260723T140000
 SUMMARY:SABADELL Dr.Robert (Matí)
@@ -932,7 +932,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-23-tarda-sabadell-dr-robert@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260723T150000
 DTEND;TZID=Europe/Madrid:20260723T200000
 SUMMARY:SABADELL Dr.Robert (Tarda)
@@ -942,7 +942,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-23-tarda-sbd-cc-can-rull@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260723T150000
 DTEND;TZID=Europe/Madrid:20260723T200000
 SUMMARY:SBD CC Can Rull (Tarda)
@@ -951,7 +951,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-24-tarda-sbd-cc-st-oleguer@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260724T150000
 DTEND;TZID=Europe/Madrid:20260724T200000
 SUMMARY:SBD CC St.Oleguer (Tarda)
@@ -961,7 +961,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta3 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-26-mati-sbd-antic-mercat@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260726T080000
 DTEND;TZID=Europe/Madrid:20260726T140000
 SUMMARY:SBD Antic Mercat (Matí)
@@ -971,7 +971,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-27-mati-cerdanyola-del-v-ateneu@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260727T080000
 DTEND;TZID=Europe/Madrid:20260727T140000
 SUMMARY:CERDANYOLA DEL V. Ateneu (Matí)
@@ -981,7 +981,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-27-tarda-cerdanyola-del-v-ateneu@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260727T150000
 DTEND;TZID=Europe/Madrid:20260727T200000
 SUMMARY:CERDANYOLA DEL V. Ateneu (Tarda)
@@ -991,7 +991,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-29-tarda-sbd-cc-ca-n-oriac@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260729T150000
 DTEND;TZID=Europe/Madrid:20260729T200000
 SUMMARY:SBD CC Ca n'Oriac (Tarda)
@@ -1000,7 +1000,7 @@ DESCRIPTION:Vehicle: Furgoneta2 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-29-tarda-sbd-casal-pere-iv@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260729T150000
 DTEND;TZID=Europe/Madrid:20260729T200000
 SUMMARY:SBD Casal Pere IV (Tarda)
@@ -1010,7 +1010,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta4 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-30-mati-l-h-santa-eulalia-local@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260730T080000
 DTEND;TZID=Europe/Madrid:20260730T140000
 SUMMARY:L'H Santa Eulàlia - Local (Matí)
@@ -1019,7 +1019,7 @@ DESCRIPTION:Vehicle: Furgoneta6 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-30-mati-sabadell-dr-robert@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260730T080000
 DTEND;TZID=Europe/Madrid:20260730T140000
 SUMMARY:SABADELL Dr.Robert (Matí)
@@ -1029,7 +1029,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-30-tarda-l-h-santa-eulalia-local@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260730T150000
 DTEND;TZID=Europe/Madrid:20260730T200000
 SUMMARY:L'H Santa Eulàlia - Local (Tarda)
@@ -1038,7 +1038,7 @@ DESCRIPTION:Vehicle: Furgoneta6 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-30-tarda-sabadell-dr-robert@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260730T150000
 DTEND;TZID=Europe/Madrid:20260730T200000
 SUMMARY:SABADELL Dr.Robert (Tarda)
@@ -1048,7 +1048,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-31-mati-st-cugat-pl-octiva-gk@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260731T080000
 DTEND;TZID=Europe/Madrid:20260731T140000
 SUMMARY:ST. CUGAT Pl. Octiva GK (Matí)
@@ -1057,7 +1057,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-31-tarda-st-cugat-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260731T150000
 DTEND;TZID=Europe/Madrid:20260731T200000
 SUMMARY:ST. CUGAT V. Torreblanca (Tarda)
@@ -1067,7 +1067,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta4 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-31-tarda-st-cugat-pl-octavia-gk@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260731T150000
 DTEND;TZID=Europe/Madrid:20260731T200000
 SUMMARY:ST.CUGAT Pl.Octavià GK (Tarda)
@@ -1076,7 +1076,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-03-tarda-bellaterra-emd@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260803T150000
 DTEND;TZID=Europe/Madrid:20260803T200000
 SUMMARY:BELLATERRA EMD (Tarda)
@@ -1085,7 +1085,7 @@ DESCRIPTION:Vehicle: Furgoneta6 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-04-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260804T150000
 DTEND;TZID=Europe/Madrid:20260804T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1095,7 +1095,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta6 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-05-mati-st-cugat-xalet-negre@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260805T080000
 DTEND;TZID=Europe/Madrid:20260805T140000
 SUMMARY:ST.CUGAT Xalet Negre (Matí)
@@ -1104,7 +1104,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 25 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-05-tarda-sbd-cc-gracia@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260805T150000
 DTEND;TZID=Europe/Madrid:20260805T200000
 SUMMARY:SBD CC Gràcia (Tarda)
@@ -1113,7 +1113,7 @@ DESCRIPTION:Vehicle: Furgoneta3 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-05-tarda-st-cugat-xalet-negre@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260805T150000
 DTEND;TZID=Europe/Madrid:20260805T200000
 SUMMARY:ST.CUGAT Xalet Negre (Tarda)
@@ -1122,7 +1122,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 25 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-06-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260806T150000
 DTEND;TZID=Europe/Madrid:20260806T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1132,7 +1132,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta | Previsió: 25 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-10-mati-cerdanyola-pl-abat-oliba@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260810T080000
 DTEND;TZID=Europe/Madrid:20260810T140000
 SUMMARY:CERDANYOLA Pl.Abat Oliba (Matí)
@@ -1142,7 +1142,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-10-tarda-cerdanyola-pl-abat-oliba@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260810T150000
 DTEND;TZID=Europe/Madrid:20260810T200000
 SUMMARY:CERDANYOLA Pl.Abat Oliba (Tarda)
@@ -1152,7 +1152,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-11-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260811T150000
 DTEND;TZID=Europe/Madrid:20260811T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1162,7 +1162,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta6 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-12-tarda-sbd-cc-la-concordia@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260812T150000
 DTEND;TZID=Europe/Madrid:20260812T200000
 SUMMARY:SBD CC La Concòrdia (Tarda)
@@ -1172,7 +1172,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta4 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-13-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260813T150000
 DTEND;TZID=Europe/Madrid:20260813T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1182,7 +1182,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta4 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-13-tarda-sbd-cc-can-llong@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260813T150000
 DTEND;TZID=Europe/Madrid:20260813T200000
 SUMMARY:SBD CC Can Llong (Tarda)
@@ -1191,7 +1191,7 @@ DESCRIPTION:Vehicle: Furgoneta3 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-14-mati-sbd-cc-can-rull@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260814T080000
 DTEND;TZID=Europe/Madrid:20260814T140000
 SUMMARY:SBD CC Can Rull (Matí)
@@ -1201,7 +1201,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta4 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-14-tarda-sbd-cc-can-rull@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260814T150000
 DTEND;TZID=Europe/Madrid:20260814T200000
 SUMMARY:SBD CC Can Rull (Tarda)
@@ -1211,7 +1211,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta4 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-17-tarda-st-cugat-xalet-negre@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260817T150000
 DTEND;TZID=Europe/Madrid:20260817T200000
 SUMMARY:ST.CUGAT Xalet Negre (Tarda)
@@ -1220,7 +1220,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-18-mati-st-cugat-xalet-negre@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260818T080000
 DTEND;TZID=Europe/Madrid:20260818T140000
 SUMMARY:ST.CUGAT Xalet Negre (Matí)
@@ -1229,7 +1229,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-18-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260818T150000
 DTEND;TZID=Europe/Madrid:20260818T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1239,7 +1239,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta | Previsió: 25 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-18-tarda-st-cugat-xalet-negre@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260818T150000
 DTEND;TZID=Europe/Madrid:20260818T200000
 SUMMARY:ST.CUGAT Xalet Negre (Tarda)
@@ -1248,7 +1248,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-19-mati-sbd-pi-i-margall-gp@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260819T080000
 DTEND;TZID=Europe/Madrid:20260819T140000
 SUMMARY:SBD Pi i Margall GP (Matí)
@@ -1257,7 +1257,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-19-tarda-sbd-cc-creu-barbera@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260819T160000
 DTEND;TZID=Europe/Madrid:20260819T200000
 SUMMARY:SBD CC Creu Barberà (PDF oficial)
@@ -1267,7 +1267,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta3 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-19-tarda-sbd-pi-i-margall-gp@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260819T170000
 DTEND;TZID=Europe/Madrid:20260819T210000
 SUMMARY:SBD Pi i Margall GP (PDF oficial)
@@ -1277,7 +1277,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-20-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260820T150000
 DTEND;TZID=Europe/Madrid:20260820T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1287,7 +1287,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta | Previsió: 25 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-21-mati-sbd-pl-dr-robert@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260821T080000
 DTEND;TZID=Europe/Madrid:20260821T140000
 SUMMARY:SBD Pl.Dr.Robert (Matí)
@@ -1297,7 +1297,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-21-tarda-sbd-pl-dr-robert@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260821T150000
 DTEND;TZID=Europe/Madrid:20260821T200000
 SUMMARY:SBD Pl.Dr.Robert (Tarda)
@@ -1307,7 +1307,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-24-mati-cerdanyola-pl-abat-oliba@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260824T100000
 DTEND;TZID=Europe/Madrid:20260824T140000
 SUMMARY:CERDANYOLA Pl.Abat Oliba (PDF oficial)
@@ -1317,7 +1317,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-24-tarda-cerdanyola-pl-abat-oliba@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260824T170000
 DTEND;TZID=Europe/Madrid:20260824T210000
 SUMMARY:CERDANYOLA Pl.Abat Oliba (PDF oficial)
@@ -1327,7 +1327,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-25-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260825T150000
 DTEND;TZID=Europe/Madrid:20260825T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1337,7 +1337,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta5 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-26-tarda-l-h-la-florida@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260826T170000
 DTEND;TZID=Europe/Madrid:20260826T210000
 SUMMARY:L'H La Florida (PDF oficial)
@@ -1347,7 +1347,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-26-tarda-sbd-cc-ca-n-oriac@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260826T160000
 DTEND;TZID=Europe/Madrid:20260826T200000
 SUMMARY:SBD CC Ca n'Oriac (PDF oficial)
@@ -1357,7 +1357,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta3 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-27-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260827T150000
 DTEND;TZID=Europe/Madrid:20260827T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1367,7 +1367,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta4 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-29-mati-sbd-pi-i-margall-gp@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260829T080000
 DTEND;TZID=Europe/Madrid:20260829T140000
 SUMMARY:SBD Pi i Margall GP (Matí)
@@ -1376,7 +1376,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-30-mati-st-cugat-gp-pl-octavia@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260830T100000
 DTEND;TZID=Europe/Madrid:20260830T140000
 SUMMARY:ST.CUGAT GP Pl.Octavià (PDF oficial)
@@ -1386,7 +1386,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-31-mati-sbd-enginyers-ind@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260831T080000
 DTEND;TZID=Europe/Madrid:20260831T140000
 SUMMARY:SBD Enginyers Ind. (Matí)
@@ -1396,7 +1396,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta | Previsió: 30 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-31-tarda-sbd-cc-can-rull@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260831T150000
 DTEND;TZID=Europe/Madrid:20260831T200000
 SUMMARY:SBD CC Can Rull (Tarda)
@@ -1406,7 +1406,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta | Previsió: 30 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-31-tarda-sbd-cc-gracia-16-20h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260831T150000
 DTEND;TZID=Europe/Madrid:20260831T200000
 SUMMARY:SBD CC Gràcia 16-20h (Tarda)
@@ -1415,7 +1415,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-01-mati-sbd-enginyers-ind@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260901T080000
 DTEND;TZID=Europe/Madrid:20260901T140000
 SUMMARY:SBD Enginyers Ind. (Matí)
@@ -1425,7 +1425,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-01-mati-st-cugat@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260901T090000
 DTEND;TZID=Europe/Madrid:20260901T130000
 SUMMARY:ST.CUGAT (PDF oficial)
@@ -1435,7 +1435,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-01-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260901T150000
 DTEND;TZID=Europe/Madrid:20260901T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1445,7 +1445,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta6 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-01-tarda-st-cugat@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260901T170000
 DTEND;TZID=Europe/Madrid:20260901T210000
 SUMMARY:ST.CUGAT (PDF oficial)
@@ -1455,7 +1455,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-03-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260903T150000
 DTEND;TZID=Europe/Madrid:20260903T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1465,7 +1465,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta4 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-03-tarda-sbd-cc-can-llong-16-20h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260903T160000
 DTEND;TZID=Europe/Madrid:20260903T200000
 SUMMARY:SBD CC Can Llong 16-20h (PDF oficial)
@@ -1475,7 +1475,7 @@ DESCRIPTION:Vehicle: Furgoneta5 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-04-mati-st-cugat-del-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260904T080000
 DTEND;TZID=Europe/Madrid:20260904T140000
 SUMMARY:ST.CUGAT DEL V. Torreblanca (Matí)
@@ -1485,7 +1485,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-04-tarda-st-cugat-del-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260904T150000
 DTEND;TZID=Europe/Madrid:20260904T200000
 SUMMARY:ST.CUGAT DEL V. Torreblanca (Tarda)
@@ -1495,7 +1495,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta1 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-07-mati-cerdanyola-ateneu@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260907T093000
 DTEND;TZID=Europe/Madrid:20260907T133000
 SUMMARY:CERDANYOLA Ateneu (PDF oficial)
@@ -1505,7 +1505,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta3 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-07-tarda-cerdanyola-ateneu@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260907T163000
 DTEND;TZID=Europe/Madrid:20260907T203000
 SUMMARY:CERDANYOLA Ateneu (PDF oficial)
@@ -1515,7 +1515,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta3 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-08-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260908T150000
 DTEND;TZID=Europe/Madrid:20260908T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1525,7 +1525,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta5 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-10-mati-hospitalet-dir-9-13-30h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260910T080000
 DTEND;TZID=Europe/Madrid:20260910T140000
 SUMMARY:HOSPITALET DiR 9-13\,30h (Matí)
@@ -1534,7 +1534,7 @@ DESCRIPTION:Vehicle: Furgoneta5 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-10-mati-sbd-pl-dr-robert@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260910T080000
 DTEND;TZID=Europe/Madrid:20260910T140000
 SUMMARY:SBD Pl.Dr.Robert (Matí)
@@ -1544,7 +1544,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-10-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260910T150000
 DTEND;TZID=Europe/Madrid:20260910T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1554,7 +1554,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta4 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-10-tarda-sbd-can-rull@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260910T150000
 DTEND;TZID=Europe/Madrid:20260910T200000
 SUMMARY:SBD Can Rull (Tarda)
@@ -1564,7 +1564,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-10-tarda-sbd-pl-dr-robert@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260910T150000
 DTEND;TZID=Europe/Madrid:20260910T200000
 SUMMARY:SBD Pl.Dr.Robert (Tarda)
@@ -1574,7 +1574,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-11-mati-l-h-rambla-marina-gk@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260911T100000
 DTEND;TZID=Europe/Madrid:20260911T140000
 SUMMARY:L'H Rambla Marina GK (PDF oficial)
@@ -1584,7 +1584,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-11-tarda-l-h-rambla-marina-gk@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260911T170000
 DTEND;TZID=Europe/Madrid:20260911T210000
 SUMMARY:L'H Rambla Marina GK (PDF oficial)
@@ -1594,7 +1594,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-13-mati-sbd-antic-mercat@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260913T080000
 DTEND;TZID=Europe/Madrid:20260913T140000
 SUMMARY:SBD Antic Mercat (Matí)
@@ -1604,7 +1604,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta3 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-15-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260915T150000
 DTEND;TZID=Europe/Madrid:20260915T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1614,7 +1614,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta7 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-15-tarda-sbd-cc-can-deu@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260915T160000
 DTEND;TZID=Europe/Madrid:20260915T200000
 SUMMARY:SBD CC Can Déu (PDF oficial)
@@ -1624,7 +1624,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-16-mati-st-cugat-ricoh-13h-e@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260916T093000
 DTEND;TZID=Europe/Madrid:20260916T133000
 SUMMARY:ST CUGAT Ricoh 13h E?? (PDF oficial)
@@ -1634,7 +1634,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-16-mati-st-cugat-asepeyo@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260916T093000
 DTEND;TZID=Europe/Madrid:20260916T133000
 SUMMARY:ST. CUGAT Asepeyo (PDF oficial)
@@ -1644,7 +1644,7 @@ DESCRIPTION:Vehicle: Furgoneta1 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-17-mati-st-cugat-bureau-veritas-9-13h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260917T093000
 DTEND;TZID=Europe/Madrid:20260917T133000
 SUMMARY:ST.CUGAT Bureau-Veritas 9-13h (PDF oficial)
@@ -1654,7 +1654,7 @@ DESCRIPTION:Vehicle: Furgoneta8 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-17-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260917T150000
 DTEND;TZID=Europe/Madrid:20260917T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1664,7 +1664,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta8 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-18-mati-st-cugat-del-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260918T080000
 DTEND;TZID=Europe/Madrid:20260918T140000
 SUMMARY:ST.CUGAT DEL V. Torreblanca (Matí)
@@ -1674,7 +1674,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta5 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-18-tarda-st-cugat-del-v-torreblanca@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260918T150000
 DTEND;TZID=Europe/Madrid:20260918T200000
 SUMMARY:ST.CUGAT DEL V. Torreblanca (Tarda)
@@ -1684,7 +1684,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta5 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-20-mati-sbd-antic-mercat@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260920T080000
 DTEND;TZID=Europe/Madrid:20260920T140000
 SUMMARY:SBD Antic Mercat (Matí)
@@ -1694,7 +1694,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-21-mati-sbd-pl-dr-robert@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260921T080000
 DTEND;TZID=Europe/Madrid:20260921T140000
 SUMMARY:SBD Pl.Dr.Robert (Matí)
@@ -1704,7 +1704,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-21-tarda-sbd-pl-dr-robert@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260921T150000
 DTEND;TZID=Europe/Madrid:20260921T200000
 SUMMARY:SBD Pl.Dr.Robert (Tarda)
@@ -1714,7 +1714,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-22-mati-sbd-banc-sabadell@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260922T080000
 DTEND;TZID=Europe/Madrid:20260922T140000
 SUMMARY:SBD Banc Sabadell (Matí)
@@ -1723,7 +1723,7 @@ DESCRIPTION:Vehicle: Furgoneta2 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-22-tarda-l-h-sta-eulalia-17-21h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260922T150000
 DTEND;TZID=Europe/Madrid:20260922T200000
 SUMMARY:L'H Sta.Eulàlia 17-21h (Tarda)
@@ -1733,7 +1733,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta1 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-23-mati-st-cugat-banc-sabadell@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260923T080000
 DTEND;TZID=Europe/Madrid:20260923T140000
 SUMMARY:ST.CUGAT Banc Sabadell (Matí)
@@ -1743,7 +1743,7 @@ DESCRIPTION:Vehicle: Furgoneta2 | Previsió: 40 donacions | Pendent de conf
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-23-tarda-sbd-pl-pi-i-margall-g@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260923T150000
 DTEND;TZID=Europe/Madrid:20260923T200000
 SUMMARY:SBD Pl.Pi i Margall G (Tarda)
@@ -1752,7 +1752,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-29-tarda-l-h-auditori-barradas@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20260929T150000
 DTEND;TZID=Europe/Madrid:20260929T200000
 SUMMARY:L'H Auditori Barradas (Tarda)
@@ -1762,7 +1762,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta4 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-10-01-mati-st-cugat-9-14h-ferrer-15-30h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20261001T080000
 DTEND;TZID=Europe/Madrid:20261001T140000
 SUMMARY:ST.CUGAT 9-14h Ferrer 15:30h (Matí)
@@ -1772,7 +1772,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 40 donacions | Pendent de confi
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-10-01-tarda-l-h-torre-barrina@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20261001T150000
 DTEND;TZID=Europe/Madrid:20261001T200000
 SUMMARY:L'H Torre Barrina (Tarda)
@@ -1782,7 +1782,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 30 donacions | Pendent de confi
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-10-21-tarda-hospitalet-florida@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20261021T150000
 DTEND;TZID=Europe/Madrid:20261021T200000
 SUMMARY:HOSPITALET FLORIDA (Tarda)
@@ -1791,7 +1791,7 @@ DESCRIPTION:Vehicle: Bus | Previsió: 40 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-10-26-mati-st-cugat-ajuntament@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20261026T080000
 DTEND;TZID=Europe/Madrid:20261026T140000
 SUMMARY:ST.CUGAT Ajuntament (Matí)
@@ -1801,7 +1801,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-10-26-tarda-st-cugat-ajuntament@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20261026T150000
 DTEND;TZID=Europe/Madrid:20261026T200000
 SUMMARY:ST.CUGAT Ajuntament (Tarda)
@@ -1811,7 +1811,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-10-28-mati-st-cugat-boehringer@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20261028T080000
 DTEND;TZID=Europe/Madrid:20261028T140000
 SUMMARY:ST.CUGAT Boehringer (Matí)
@@ -1821,7 +1821,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 40 donacions | Pendent de confi
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-10-29-tarda-bellaterra@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20261029T150000
 DTEND;TZID=Europe/Madrid:20261029T200000
 SUMMARY:BELLATERRA (Tarda)
@@ -1831,7 +1831,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta | Previsió: 25 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-11-02-tarda-l-h-ca-n-arus-16-20h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20261102T150000
 DTEND;TZID=Europe/Madrid:20261102T200000
 SUMMARY:L'H Ca n'Arús 16-20h (Tarda)
@@ -1840,7 +1840,7 @@ DESCRIPTION:Vehicle: Bus3 | Previsió: 30 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-11-11-mati-st-cugat-v-ecuphar-13h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20261111T080000
 DTEND;TZID=Europe/Madrid:20261111T140000
 SUMMARY:ST.CUGAT V. Ecuphar 13h (Matí)
@@ -1850,7 +1850,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 30 donacions | Pendent de confi
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-11-15-mati-st-cugat-gp-pl-octavia@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20261115T080000
 DTEND;TZID=Europe/Madrid:20261115T140000
 SUMMARY:ST.CUGAT GP Pl.Octavià (Matí)
@@ -1859,7 +1859,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-12-03-mati-st-cugat-fluidra-8-15h@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20261203T080000
 DTEND;TZID=Europe/Madrid:20261203T140000
 SUMMARY:ST.CUGAT Fluidra 8-15h (Matí)
@@ -1869,7 +1869,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 40 donacions | Pendent de confi
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-12-11-tarda-st-cugat-gp-pl-octavia@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20261211T150000
 DTEND;TZID=Europe/Madrid:20261211T200000
 SUMMARY:ST.CUGAT GP Pl.Octavià (Tarda)
@@ -1878,7 +1878,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-12-15-mati-st-cugat-ajuntament@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20261215T080000
 DTEND;TZID=Europe/Madrid:20261215T140000
 SUMMARY:ST.CUGAT Ajuntament (Matí)
@@ -1888,7 +1888,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-12-16-mati-st-cugat-banc-sabadell@bst-donacions
-DTSTAMP:20260818T080900Z
+DTSTAMP:20260818T090138Z
 DTSTART;TZID=Europe/Madrid:20261216T080000
 DTEND;TZID=Europe/Madrid:20261216T140000
 SUMMARY:ST.CUGAT Banc Sabadell (Matí)
