@@ -23,7 +23,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:bst-2026-03-16-mati-cerdanyola-ateneu@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260316T093000
 DTEND;TZID=Europe/Madrid:20260316T133000
 SUMMARY:Cerdanyola - Ateneu (PDF+Excel)
@@ -33,7 +33,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta3 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-16-tarda-cerdanyola-ateneu@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260316T150000
 DTEND;TZID=Europe/Madrid:20260316T200000
 SUMMARY:Cerdanyola - Ateneu (Excel-Tarda)
@@ -42,7 +42,7 @@ DESCRIPTION:Pendent de confirmar | Observacions: anul·lada vaga metges
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-17-tarda-sant-cugat-puresa-de-maria@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260317T160000
 DTEND;TZID=Europe/Madrid:20260317T200000
 SUMMARY:Sant Cugat - Puresa de Maria (PDF+Excel)
@@ -52,7 +52,7 @@ DESCRIPTION:Vehicle: Furgoneta5 | Previsió: 50 donacions | Confirmada | Ob
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-19-mati-cerdanyola-stradivarius@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260319T090000
 DTEND;TZID=Europe/Madrid:20260319T130000
 SUMMARY:Cerdanyola - Stradivarius (PDF+Excel)
@@ -62,7 +62,7 @@ DESCRIPTION:Vehicle: Furgoneta5 | Previsió: 35 donacions | Confirmada | Ob
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-20-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260320T150000
 DTEND;TZID=Europe/Madrid:20260320T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -71,7 +71,7 @@ DESCRIPTION:Pendent de confirmar | Observacions: E\, anul·lada vaga metges
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-24-mati-terrassa-institut-egara@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260324T080000
 DTEND;TZID=Europe/Madrid:20260324T140000
 SUMMARY:Terrassa - Institut Egara (Excel-Mati)
@@ -80,7 +80,7 @@ DESCRIPTION:Vehicle: Furgoneta2 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-24-tarda-cerdanyola-fedac@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260324T160000
 DTEND;TZID=Europe/Madrid:20260324T200000
 SUMMARY:Cerdanyola - FEDAC (PDF+Excel)
@@ -90,7 +90,7 @@ DESCRIPTION:Vehicle: Furgoneta6 | Previsió: 40 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-24-tarda-terrassa-institut-egara@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260324T150000
 DTEND;TZID=Europe/Madrid:20260324T200000
 SUMMARY:Terrassa - Institut Egara (Excel-Tarda)
@@ -99,7 +99,7 @@ DESCRIPTION:Vehicle: Furgoneta2 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-26-tarda-hospitalet-biblioteca-josep-janes@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260326T160000
 DTEND;TZID=Europe/Madrid:20260326T200000
 SUMMARY:Hospitalet - Biblioteca Josep Janés (PDF+Excel)
@@ -109,7 +109,7 @@ DESCRIPTION:Vehicle: Furgoneta3 | Previsió: 40 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-26-tarda-terrassa-escola-ponent@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260326T150000
 DTEND;TZID=Europe/Madrid:20260326T200000
 SUMMARY:Terrassa - Escola Ponent (Excel-Tarda)
@@ -118,7 +118,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-27-mati-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260327T093000
 DTEND;TZID=Europe/Madrid:20260327T133000
 SUMMARY:Sant Cugat - Casal Torreblanca (PDF+Excel)
@@ -128,7 +128,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-27-tarda-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260327T163000
 DTEND;TZID=Europe/Madrid:20260327T203000
 SUMMARY:Sant Cugat - Casal Torreblanca (PDF+Excel)
@@ -138,7 +138,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-03-28-mati-hospitalet-rambla-marina@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260328T100000
 DTEND;TZID=Europe/Madrid:20260328T140000
 SUMMARY:Hospitalet - Rambla Marina (PDF+Excel)
@@ -148,7 +148,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-01-mati-sant-cugat-creanova-school@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260401T080000
 DTEND;TZID=Europe/Madrid:20260401T140000
 SUMMARY:Sant Cugat - CreaNova School (Excel-Mati)
@@ -157,7 +157,7 @@ DESCRIPTION:Vehicle: Furgoneta8 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-02-tarda-terrassa-ramon-i-cajal@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260402T150000
 DTEND;TZID=Europe/Madrid:20260402T200000
 SUMMARY:Terrassa - Ramon i Cajal (Excel-Tarda)
@@ -166,7 +166,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-03-mati-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260403T080000
 DTEND;TZID=Europe/Madrid:20260403T140000
 SUMMARY:Sant Cugat - Casal Torreblanca (Excel-Mati)
@@ -176,7 +176,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta4 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-03-tarda-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260403T150000
 DTEND;TZID=Europe/Madrid:20260403T200000
 SUMMARY:Sant Cugat - Casal Torreblanca (Excel-Tarda)
@@ -186,7 +186,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta4 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-06-mati-cerdanyola-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260406T080000
 DTEND;TZID=Europe/Madrid:20260406T140000
 SUMMARY:Cerdanyola - General (Excel-Mati)
@@ -196,7 +196,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-06-tarda-cerdanyola-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260406T150000
 DTEND;TZID=Europe/Madrid:20260406T200000
 SUMMARY:Cerdanyola - General (Excel-Tarda)
@@ -206,7 +206,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-09-mati-hospitalet-ca-n-arus-fira-de-la-salut@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260409T080000
 DTEND;TZID=Europe/Madrid:20260409T140000
 SUMMARY:Hospitalet - Ca n'Arús (Fira de la Salut) (Excel-Mati)
@@ -217,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-09-tarda-hospitalet-ca-n-arus-fira-de-la-salut@bst-donacion
  s
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260409T150000
 DTEND;TZID=Europe/Madrid:20260409T200000
 SUMMARY:Hospitalet - Ca n'Arús (Fira de la Salut) (Excel-Tarda)
@@ -227,7 +227,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-13-mati-cerdanyola-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260413T100000
 DTEND;TZID=Europe/Madrid:20260413T140000
 SUMMARY:Cerdanyola - General (PDF+Excel)
@@ -237,7 +237,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-13-tarda-cerdanyola-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260413T170000
 DTEND;TZID=Europe/Madrid:20260413T210000
 SUMMARY:Cerdanyola - General (PDF+Excel)
@@ -248,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-14-mati-hospitalet-centre-de-formacio-d-adults-can-serra@bs
  t-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260414T080000
 DTEND;TZID=Europe/Madrid:20260414T140000
 SUMMARY:Hospitalet - Centre de Formació d'Adults Can Serra (Excel-Mati)
@@ -257,7 +257,7 @@ DESCRIPTION:Vehicle: Furgoneta3 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-15-tarda-hospitalet-centre-d-estudis-dolmen@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260415T150000
 DTEND;TZID=Europe/Madrid:20260415T200000
 SUMMARY:Hospitalet - Centre d'Estudis Dolmen (Excel-Tarda)
@@ -266,7 +266,7 @@ DESCRIPTION:Vehicle: Furgoneta6 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-16-tarda-hospitalet-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260416T150000
 DTEND;TZID=Europe/Madrid:20260416T200000
 SUMMARY:Hospitalet - Santa Eulàlia (Excel-Tarda)
@@ -276,7 +276,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-17-mati-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260417T080000
 DTEND;TZID=Europe/Madrid:20260417T140000
 SUMMARY:Sant Cugat - Casal Torreblanca (Excel-Mati)
@@ -286,7 +286,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta3 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-17-tarda-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260417T150000
 DTEND;TZID=Europe/Madrid:20260417T200000
 SUMMARY:Sant Cugat - Casal Torreblanca (Excel-Tarda)
@@ -295,7 +295,7 @@ DESCRIPTION:Vehicle: Furgoneta3 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-20-tarda-hospitalet-sant-jaume-de-la-fep@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260420T150000
 DTEND;TZID=Europe/Madrid:20260420T200000
 SUMMARY:Hospitalet - Sant Jaume de la FEP (Excel-Tarda)
@@ -305,7 +305,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 40 donacions | Confirmada | Ob
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-22-tarda-hospitalet-institut-can-vilumara@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260422T150000
 DTEND;TZID=Europe/Madrid:20260422T200000
 SUMMARY:Hospitalet - Institut Can Vilumara (Excel-Tarda)
@@ -315,7 +315,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta8 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-04-23-tarda-hospitalet-torre-barrina@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260423T150000
 DTEND;TZID=Europe/Madrid:20260423T200000
 SUMMARY:Hospitalet - Torre Barrina (Excel-Tarda)
@@ -324,7 +324,7 @@ DESCRIPTION:Vehicle: Furgoneta6 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-02-tarda-sant-cugat-escola-thau@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260502T150000
 DTEND;TZID=Europe/Madrid:20260502T200000
 SUMMARY:Sant Cugat - Escola Thau (Excel-Tarda)
@@ -333,7 +333,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 60 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-05-tarda-hospitalet-escola-pare-enric-d-osso@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260505T150000
 DTEND;TZID=Europe/Madrid:20260505T200000
 SUMMARY:Hospitalet - Escola Pare Enric d'Ossó (Excel-Tarda)
@@ -343,7 +343,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta6 | Previsió: 50 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-08-mati-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260508T080000
 DTEND;TZID=Europe/Madrid:20260508T140000
 SUMMARY:Sant Cugat - Casal Torreblanca (Excel-Mati)
@@ -353,7 +353,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-08-tarda-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260508T150000
 DTEND;TZID=Europe/Madrid:20260508T200000
 SUMMARY:Sant Cugat - Casal Torreblanca (Excel-Tarda)
@@ -363,7 +363,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta1 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-11-mati-cerdanyola-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260511T080000
 DTEND;TZID=Europe/Madrid:20260511T140000
 SUMMARY:Cerdanyola - General (Excel-Mati)
@@ -373,7 +373,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-11-tarda-cerdanyola-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260511T150000
 DTEND;TZID=Europe/Madrid:20260511T200000
 SUMMARY:Cerdanyola - General (Excel-Tarda)
@@ -384,7 +384,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-12-mati-sant-cugat-unitat-mobil-davant-ajuntament@bst-donac
  ions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260512T080000
 DTEND;TZID=Europe/Madrid:20260512T140000
 SUMMARY:Sant Cugat - Unitat Mòbil davant Ajuntament (Excel-Mati)
@@ -393,7 +393,7 @@ DESCRIPTION:Pendent de confirmar | Observacions: E\, VAGA METGES
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-13-mati-sant-cugat-uriach-parada@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260513T080000
 DTEND;TZID=Europe/Madrid:20260513T140000
 SUMMARY:Sant Cugat - Uriach (parada) (Excel-Mati)
@@ -402,7 +402,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-19-tarda-hospitalet-la-florida@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260519T150000
 DTEND;TZID=Europe/Madrid:20260519T200000
 SUMMARY:Hospitalet - La Florida (Excel-Tarda)
@@ -412,7 +412,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-20-mati-hospitalet-veepee-rambla-marina@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260520T080000
 DTEND;TZID=Europe/Madrid:20260520T140000
 SUMMARY:Hospitalet - Veepee Rambla Marina (Excel-Mati)
@@ -421,7 +421,7 @@ DESCRIPTION:Vehicle: Furgoneta7 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-21-tarda-hospitalet-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260521T150000
 DTEND;TZID=Europe/Madrid:20260521T200000
 SUMMARY:Hospitalet - Santa Eulàlia (Excel-Tarda)
@@ -431,7 +431,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-22-mati-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260522T080000
 DTEND;TZID=Europe/Madrid:20260522T140000
 SUMMARY:Sant Cugat - Casal Torreblanca (Excel-Mati)
@@ -441,7 +441,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-05-22-tarda-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260522T150000
 DTEND;TZID=Europe/Madrid:20260522T200000
 SUMMARY:Sant Cugat - Casal Torreblanca (Excel-Tarda)
@@ -451,7 +451,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-02-mati-sant-cugat-aldi@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260602T090000
 DTEND;TZID=Europe/Madrid:20260602T130000
 SUMMARY:Sant Cugat - Aldi (PDF+Excel)
@@ -461,7 +461,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-05-mati-hospitalet-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260605T100000
 DTEND;TZID=Europe/Madrid:20260605T140000
 SUMMARY:Hospitalet - Santa Eulàlia (PDF+Excel)
@@ -471,7 +471,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 20 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-05-tarda-hospitalet-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260605T170000
 DTEND;TZID=Europe/Madrid:20260605T210000
 SUMMARY:Hospitalet - Santa Eulàlia (PDF+Excel)
@@ -481,7 +481,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-06-mati-terrassa-cn-terrassa@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260606T080000
 DTEND;TZID=Europe/Madrid:20260606T140000
 SUMMARY:Terrassa - CN Terrassa (Excel-Mati)
@@ -491,7 +491,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 60 donacions | Pendent de confi
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-08-mati-cerdanyola-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260608T100000
 DTEND;TZID=Europe/Madrid:20260608T140000
 SUMMARY:Cerdanyola - General (PDF+Excel)
@@ -501,7 +501,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-08-tarda-cerdanyola-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260608T160000
 DTEND;TZID=Europe/Madrid:20260608T200000
 SUMMARY:Cerdanyola - General (PDF+Excel)
@@ -511,7 +511,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-13-mati-sant-cugat-parada-centre-comercial@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260613T100000
 DTEND;TZID=Europe/Madrid:20260613T140000
 SUMMARY:Sant Cugat - Parada Centre Comercial (PDF+Excel)
@@ -521,7 +521,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-13-tarda-sant-cugat-parada-centre-comercial@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260613T170000
 DTEND;TZID=Europe/Madrid:20260613T210000
 SUMMARY:Sant Cugat - Parada Centre Comercial (PDF+Excel)
@@ -532,7 +532,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-14-mati-barcelona-parroquia-st-ramon-festa-diversitat@bst-d
  onacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260614T100000
 DTEND;TZID=Europe/Madrid:20260614T140000
 SUMMARY:Barcelona - Parròquia St. Ramon (Festa Diversitat) (PDF+Excel)
@@ -542,7 +542,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-16-mati-cerdanyola-alba-synchrotron@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260616T100000
 DTEND;TZID=Europe/Madrid:20260616T140000
 SUMMARY:Cerdanyola - Alba Synchrotron (PDF+Excel)
@@ -552,7 +552,7 @@ DESCRIPTION:Vehicle: Furgoneta2 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-19-mati-sant-cugat-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260619T093000
 DTEND;TZID=Europe/Madrid:20260619T133000
 SUMMARY:Sant Cugat - General (PDF+Excel)
@@ -562,7 +562,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-20-mati-hospitalet-la-florida@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260620T100000
 DTEND;TZID=Europe/Madrid:20260620T140000
 SUMMARY:Hospitalet - La Florida (PDF+Excel)
@@ -572,7 +572,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-22-mati-cerdanyola-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260622T100000
 DTEND;TZID=Europe/Madrid:20260622T140000
 SUMMARY:Cerdanyola - General (PDF+Excel)
@@ -582,7 +582,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-22-tarda-cerdanyola-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260622T160000
 DTEND;TZID=Europe/Madrid:20260622T200000
 SUMMARY:Cerdanyola - General (PDF+Excel)
@@ -592,17 +592,17 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-23-mati-sant-cugat-parada-placa-de-la-vila@bst-donacions
-DTSTAMP:20260821T101629Z
-DTSTART;TZID=Europe/Madrid:20260623T080000
-DTEND;TZID=Europe/Madrid:20260623T140000
-SUMMARY:Sant Cugat - Parada Plaça de la Vila (Excel-Mati)
+DTSTAMP:20260821T102122Z
+DTSTART;TZID=Europe/Madrid:20260623T090000
+DTEND;TZID=Europe/Madrid:20260623T130000
+SUMMARY:Sant Cugat - Parada Plaça de la Vila (PDF+Excel)
 LOCATION:Sant Cugat - Parada Plaça de la Vila
 DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
- ions: E
+ ions: E | ID oficial (PDF): 2651
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-25-tarda-hospitalet-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260625T173000
 DTEND;TZID=Europe/Madrid:20260625T210000
 SUMMARY:Hospitalet - Santa Eulàlia (PDF+Excel)
@@ -612,7 +612,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-26-mati-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260626T093000
 DTEND;TZID=Europe/Madrid:20260626T133000
 SUMMARY:Sant Cugat - Casal Torreblanca (PDF+Excel)
@@ -622,7 +622,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta5 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-26-tarda-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260626T163000
 DTEND;TZID=Europe/Madrid:20260626T203000
 SUMMARY:Sant Cugat - Casal Torreblanca (PDF+Excel)
@@ -632,7 +632,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta5 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-06-30-tarda-hospitalet-auditori-barradas@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260630T170000
 DTEND;TZID=Europe/Madrid:20260630T200000
 SUMMARY:Hospitalet - Auditori Barradas (PDF+Excel)
@@ -642,7 +642,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta4 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-02-mati-hospitalet-la-florida@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260702T100000
 DTEND;TZID=Europe/Madrid:20260702T140000
 SUMMARY:Hospitalet - La Florida (PDF+Excel)
@@ -652,7 +652,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-02-tarda-hospitalet-la-florida@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260702T170000
 DTEND;TZID=Europe/Madrid:20260702T210000
 SUMMARY:Hospitalet - La Florida (PDF+Excel)
@@ -662,7 +662,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-03-tarda-hospitalet-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260703T170000
 DTEND;TZID=Europe/Madrid:20260703T210000
 SUMMARY:Hospitalet - Santa Eulàlia (PDF+Excel)
@@ -672,7 +672,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-03-tarda-sabadell-casal-pere-iv@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260703T170000
 DTEND;TZID=Europe/Madrid:20260703T210000
 SUMMARY:Sabadell - Casal Pere IV (PDF+Excel)
@@ -682,7 +682,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta6 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-07-mati-sant-cugat-mapfre-cubs@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260707T090000
 DTEND;TZID=Europe/Madrid:20260707T130000
 SUMMARY:Sant Cugat - Mapfre Cubs (PDF+Excel)
@@ -692,7 +692,7 @@ DESCRIPTION:Vehicle: Furgoneta3 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-09-mati-hospitalet-werfen@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260709T090000
 DTEND;TZID=Europe/Madrid:20260709T130000
 SUMMARY:Hospitalet - Werfen (PDF+Excel)
@@ -702,7 +702,7 @@ DESCRIPTION:Vehicle: Furgoneta1 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-09-mati-sabadell-parada-placa-dr-robert@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260709T100000
 DTEND;TZID=Europe/Madrid:20260709T140000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (PDF+Excel)
@@ -712,7 +712,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-09-tarda-hospitalet-torre-barrina@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260709T173000
 DTEND;TZID=Europe/Madrid:20260709T200000
 SUMMARY:Hospitalet - Torre Barrina (PDF+Excel)
@@ -722,7 +722,7 @@ DESCRIPTION:Vehicle: Furgoneta7 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-09-tarda-sabadell-parada-placa-dr-robert@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260709T170000
 DTEND;TZID=Europe/Madrid:20260709T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (PDF+Excel)
@@ -732,7 +732,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-10-mati-cerdanyola-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260710T093000
 DTEND;TZID=Europe/Madrid:20260710T133000
 SUMMARY:Cerdanyola - General (PDF+Excel)
@@ -742,7 +742,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-10-mati-sant-cugat-parada-placa-octavia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260710T100000
 DTEND;TZID=Europe/Madrid:20260710T140000
 SUMMARY:Sant Cugat - Parada Plaça Octavià (PDF+Excel)
@@ -752,7 +752,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-10-tarda-cerdanyola-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260710T160000
 DTEND;TZID=Europe/Madrid:20260710T200000
 SUMMARY:Cerdanyola - General (PDF+Excel)
@@ -762,7 +762,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-10-tarda-sabadell-centre-civic-gracia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260710T160000
 DTEND;TZID=Europe/Madrid:20260710T200000
 SUMMARY:Sabadell - Centre Cívic Gràcia (PDF+Excel)
@@ -772,7 +772,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-10-tarda-sabadell-centre-civic-can-llong@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260710T160000
 DTEND;TZID=Europe/Madrid:20260710T200000
 SUMMARY:Sabadell - Centre Cívic Can Llong (PDF+Excel)
@@ -782,7 +782,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta6 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-10-tarda-sant-cugat-parada-placa-octavia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260710T170000
 DTEND;TZID=Europe/Madrid:20260710T210000
 SUMMARY:Sant Cugat - Parada Plaça Octavià (PDF+Excel)
@@ -792,7 +792,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-12-mati-sabadell-antic-mercat-de-sant-joan@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260712T100000
 DTEND;TZID=Europe/Madrid:20260712T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (PDF+Excel)
@@ -802,7 +802,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta2 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-13-mati-cerdanyola-ateneu@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260713T093000
 DTEND;TZID=Europe/Madrid:20260713T133000
 SUMMARY:Cerdanyola - Ateneu (PDF+Excel)
@@ -812,7 +812,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-13-tarda-cerdanyola-ateneu@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260713T163000
 DTEND;TZID=Europe/Madrid:20260713T203000
 SUMMARY:Cerdanyola - Ateneu (PDF+Excel)
@@ -822,7 +822,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-14-mati-cerdanyola-rosagres@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260714T090000
 DTEND;TZID=Europe/Madrid:20260714T130000
 SUMMARY:Cerdanyola - RosaGres (PDF+Excel)
@@ -832,7 +832,7 @@ DESCRIPTION:Vehicle: Furgoneta7 | Previsió: 25 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-16-mati-sant-cugat-fluidra@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260716T090000
 DTEND;TZID=Europe/Madrid:20260716T130000
 SUMMARY:Sant Cugat - Fluidra (PDF+Excel)
@@ -842,7 +842,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 40 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-16-mati-sant-cugat-grifols@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260716T090000
 DTEND;TZID=Europe/Madrid:20260716T130000
 SUMMARY:Sant Cugat - Grifols (PDF+Excel)
@@ -853,7 +853,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-17-mati-hospitalet-centre-comercial-gran-via-2@bst-donacion
  s
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260717T093000
 DTEND;TZID=Europe/Madrid:20260717T133000
 SUMMARY:Hospitalet - Centre Comercial Gran Via 2 (PDF+Excel)
@@ -863,7 +863,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta | Previsió: 30 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-17-mati-hospitalet-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260717T100000
 DTEND;TZID=Europe/Madrid:20260717T140000
 SUMMARY:Hospitalet - Santa Eulàlia (PDF+Excel)
@@ -874,7 +874,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-17-tarda-hospitalet-centre-comercial-gran-via-2@bst-donacio
  ns
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260717T160000
 DTEND;TZID=Europe/Madrid:20260717T203000
 SUMMARY:Hospitalet - Centre Comercial Gran Via 2 (PDF+Excel)
@@ -884,7 +884,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta | Previsió: 45 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-17-tarda-hospitalet-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260717T170000
 DTEND;TZID=Europe/Madrid:20260717T210000
 SUMMARY:Hospitalet - Santa Eulàlia (PDF+Excel)
@@ -894,7 +894,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-21-mati-hospitalet-la-florida@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260721T100000
 DTEND;TZID=Europe/Madrid:20260721T140000
 SUMMARY:Hospitalet - La Florida (PDF+Excel)
@@ -904,7 +904,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-21-tarda-hospitalet-la-florida@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260721T170000
 DTEND;TZID=Europe/Madrid:20260721T210000
 SUMMARY:Hospitalet - La Florida (PDF+Excel)
@@ -914,7 +914,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-21-tarda-hospitalet-auditori-barradas@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260721T170000
 DTEND;TZID=Europe/Madrid:20260721T200000
 SUMMARY:Hospitalet - Auditori Barradas (PDF+Excel)
@@ -924,7 +924,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta4 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-21-tarda-sabadell-centre-civic-can-rull@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260721T160000
 DTEND;TZID=Europe/Madrid:20260721T200000
 SUMMARY:Sabadell - Centre Cívic Can Rull (PDF+Excel)
@@ -934,7 +934,7 @@ DESCRIPTION:PF (5 màquines) | Vehicle: Furgoneta2 | Previsió: 0 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-22-tarda-sant-cugat-mirasol@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260722T170000
 DTEND;TZID=Europe/Madrid:20260722T210000
 SUMMARY:Sant Cugat - Mirasol (PDF+Excel)
@@ -944,7 +944,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-23-mati-sabadell-parada-placa-dr-robert@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260723T100000
 DTEND;TZID=Europe/Madrid:20260723T140000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (PDF+Excel)
@@ -954,7 +954,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-23-tarda-sabadell-parada-placa-dr-robert@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260723T170000
 DTEND;TZID=Europe/Madrid:20260723T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (PDF+Excel)
@@ -964,7 +964,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-23-tarda-sabadell-centre-civic-can-rull@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260723T160000
 DTEND;TZID=Europe/Madrid:20260723T200000
 SUMMARY:Sabadell - Centre Cívic Can Rull (PDF+Excel)
@@ -974,7 +974,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 40 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-24-tarda-sabadell-centre-civic-st-oleguer@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260724T160000
 DTEND;TZID=Europe/Madrid:20260724T200000
 SUMMARY:Sabadell - Centre Cívic St. Oleguer (PDF+Excel)
@@ -984,7 +984,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta3 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-26-mati-sabadell-antic-mercat-de-sant-joan@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260726T100000
 DTEND;TZID=Europe/Madrid:20260726T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (PDF+Excel)
@@ -994,7 +994,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-27-mati-cerdanyola-ateneu@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260727T100000
 DTEND;TZID=Europe/Madrid:20260727T140000
 SUMMARY:Cerdanyola - Ateneu (PDF+Excel)
@@ -1004,7 +1004,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-27-tarda-cerdanyola-ateneu@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260727T170000
 DTEND;TZID=Europe/Madrid:20260727T210000
 SUMMARY:Cerdanyola - Ateneu (PDF+Excel)
@@ -1014,7 +1014,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-29-tarda-sabadell-centre-civic-ca-n-oriac@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260729T170000
 DTEND;TZID=Europe/Madrid:20260729T200000
 SUMMARY:Sabadell - Centre Cívic Ca n'Oriac (PDF+Excel)
@@ -1024,7 +1024,7 @@ DESCRIPTION:Vehicle: Furgoneta2 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-29-tarda-sabadell-casal-pere-iv@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260729T170000
 DTEND;TZID=Europe/Madrid:20260729T203000
 SUMMARY:Sabadell - Casal Pere IV (PDF+Excel)
@@ -1034,7 +1034,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta4 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-30-mati-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260730T080000
 DTEND;TZID=Europe/Madrid:20260730T140000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Mati)
@@ -1043,7 +1043,7 @@ DESCRIPTION:Vehicle: Furgoneta6 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-30-mati-sabadell-parada-placa-dr-robert@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260730T100000
 DTEND;TZID=Europe/Madrid:20260730T140000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (PDF+Excel)
@@ -1053,7 +1053,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-30-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260730T150000
 DTEND;TZID=Europe/Madrid:20260730T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1062,7 +1062,7 @@ DESCRIPTION:Vehicle: Furgoneta6 | Previsió: 40 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-30-tarda-sabadell-parada-placa-dr-robert@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260730T170000
 DTEND;TZID=Europe/Madrid:20260730T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (PDF+Excel)
@@ -1072,7 +1072,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-31-mati-sant-cugat-parada-placa-octavia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260731T100000
 DTEND;TZID=Europe/Madrid:20260731T140000
 SUMMARY:Sant Cugat - Parada Plaça Octavià (PDF+Excel)
@@ -1082,7 +1082,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-31-tarda-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260731T163000
 DTEND;TZID=Europe/Madrid:20260731T203000
 SUMMARY:Sant Cugat - Casal Torreblanca (PDF+Excel)
@@ -1092,7 +1092,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta4 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-07-31-tarda-sant-cugat-parada-placa-octavia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260731T170000
 DTEND;TZID=Europe/Madrid:20260731T210000
 SUMMARY:Sant Cugat - Parada Plaça Octavià (PDF+Excel)
@@ -1102,7 +1102,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-03-tarda-bellaterra-centre-civic-emd@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260803T170000
 DTEND;TZID=Europe/Madrid:20260803T210000
 SUMMARY:Bellaterra - Centre Cívic EMD (PDF+Excel)
@@ -1112,7 +1112,7 @@ DESCRIPTION:Vehicle: Furgoneta6 | Previsió: 40 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-04-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260804T150000
 DTEND;TZID=Europe/Madrid:20260804T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1122,7 +1122,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta6 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-05-mati-sant-cugat-xalet-negre@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260805T100000
 DTEND;TZID=Europe/Madrid:20260805T133000
 SUMMARY:Sant Cugat - Xalet Negre (PDF+Excel)
@@ -1132,7 +1132,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 25 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-05-tarda-sabadell-centre-civic-gracia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260805T160000
 DTEND;TZID=Europe/Madrid:20260805T200000
 SUMMARY:Sabadell - Centre Cívic Gràcia (PDF+Excel)
@@ -1142,7 +1142,7 @@ DESCRIPTION:Vehicle: Furgoneta3 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-05-tarda-sant-cugat-xalet-negre@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260805T163000
 DTEND;TZID=Europe/Madrid:20260805T203000
 SUMMARY:Sant Cugat - Xalet Negre (PDF+Excel)
@@ -1152,7 +1152,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 25 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-06-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260806T150000
 DTEND;TZID=Europe/Madrid:20260806T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1162,7 +1162,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta | Previsió: 25 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-10-mati-cerdanyola-parada-placa-abat-oliba@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260810T093000
 DTEND;TZID=Europe/Madrid:20260810T133000
 SUMMARY:Cerdanyola - Parada Plaça Abat Oliba (PDF+Excel)
@@ -1172,7 +1172,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-10-tarda-cerdanyola-parada-placa-abat-oliba@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260810T173000
 DTEND;TZID=Europe/Madrid:20260810T213000
 SUMMARY:Cerdanyola - Parada Plaça Abat Oliba (PDF+Excel)
@@ -1182,7 +1182,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-11-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260811T150000
 DTEND;TZID=Europe/Madrid:20260811T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1192,7 +1192,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta6 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-12-tarda-sabadell-centre-civic-la-concordia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260812T160000
 DTEND;TZID=Europe/Madrid:20260812T200000
 SUMMARY:Sabadell - Centre Cívic La Concòrdia (PDF+Excel)
@@ -1202,7 +1202,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta4 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-13-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260813T150000
 DTEND;TZID=Europe/Madrid:20260813T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1212,7 +1212,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta4 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-13-tarda-sabadell-centre-civic-can-llong@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260813T160000
 DTEND;TZID=Europe/Madrid:20260813T190000
 SUMMARY:Sabadell - Centre Cívic Can Llong (PDF+Excel)
@@ -1222,7 +1222,7 @@ DESCRIPTION:Vehicle: Furgoneta3 | Previsió: 40 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-14-mati-sabadell-centre-civic-can-rull@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260814T093000
 DTEND;TZID=Europe/Madrid:20260814T133000
 SUMMARY:Sabadell - Centre Cívic Can Rull (PDF+Excel)
@@ -1232,7 +1232,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta4 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-14-tarda-sabadell-centre-civic-can-rull@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260814T170000
 DTEND;TZID=Europe/Madrid:20260814T200000
 SUMMARY:Sabadell - Centre Cívic Can Rull (PDF+Excel)
@@ -1242,7 +1242,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta4 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-17-tarda-sant-cugat-xalet-negre@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260817T163000
 DTEND;TZID=Europe/Madrid:20260817T203000
 SUMMARY:Sant Cugat - Xalet Negre (PDF+Excel)
@@ -1252,7 +1252,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 40 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-18-mati-sant-cugat-xalet-negre@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260818T093000
 DTEND;TZID=Europe/Madrid:20260818T133000
 SUMMARY:Sant Cugat - Xalet Negre (PDF+Excel)
@@ -1262,7 +1262,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-18-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260818T150000
 DTEND;TZID=Europe/Madrid:20260818T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1272,7 +1272,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta | Previsió: 25 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-18-tarda-sant-cugat-xalet-negre@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260818T163000
 DTEND;TZID=Europe/Madrid:20260818T203000
 SUMMARY:Sant Cugat - Xalet Negre (PDF+Excel)
@@ -1282,7 +1282,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 40 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-19-mati-sabadell-parada-pi-i-margall@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260819T100000
 DTEND;TZID=Europe/Madrid:20260819T140000
 SUMMARY:Sabadell - Parada Pi i Margall (PDF+Excel)
@@ -1293,7 +1293,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-19-tarda-sabadell-centre-civic-creu-de-barbera@bst-donacion
  s
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260819T160000
 DTEND;TZID=Europe/Madrid:20260819T200000
 SUMMARY:Sabadell - Centre Cívic Creu de Barberà (PDF+Excel)
@@ -1303,7 +1303,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta3 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-19-tarda-sabadell-parada-pi-i-margall@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260819T170000
 DTEND;TZID=Europe/Madrid:20260819T210000
 SUMMARY:Sabadell - Parada Pi i Margall (PDF+Excel)
@@ -1313,7 +1313,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-20-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260820T150000
 DTEND;TZID=Europe/Madrid:20260820T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1323,7 +1323,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta | Previsió: 25 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-21-mati-sabadell-parada-placa-dr-robert@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260821T100000
 DTEND;TZID=Europe/Madrid:20260821T140000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (PDF+Excel)
@@ -1333,7 +1333,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-21-tarda-sabadell-parada-placa-dr-robert@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260821T170000
 DTEND;TZID=Europe/Madrid:20260821T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (PDF+Excel)
@@ -1343,7 +1343,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-24-mati-cerdanyola-parada-placa-abat-oliba@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260824T100000
 DTEND;TZID=Europe/Madrid:20260824T140000
 SUMMARY:Cerdanyola - Parada Plaça Abat Oliba (PDF+Excel)
@@ -1353,7 +1353,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-24-tarda-cerdanyola-parada-placa-abat-oliba@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260824T170000
 DTEND;TZID=Europe/Madrid:20260824T210000
 SUMMARY:Cerdanyola - Parada Plaça Abat Oliba (PDF+Excel)
@@ -1363,7 +1363,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-25-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260825T150000
 DTEND;TZID=Europe/Madrid:20260825T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1373,7 +1373,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta5 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-26-tarda-hospitalet-la-florida@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260826T170000
 DTEND;TZID=Europe/Madrid:20260826T210000
 SUMMARY:Hospitalet - La Florida (PDF+Excel)
@@ -1383,7 +1383,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-26-tarda-sabadell-centre-civic-ca-n-oriac@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260826T160000
 DTEND;TZID=Europe/Madrid:20260826T200000
 SUMMARY:Sabadell - Centre Cívic Ca n'Oriac (PDF+Excel)
@@ -1393,7 +1393,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta3 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-27-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260827T150000
 DTEND;TZID=Europe/Madrid:20260827T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1403,7 +1403,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta4 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-29-mati-sabadell-parada-pi-i-margall@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260829T100000
 DTEND;TZID=Europe/Madrid:20260829T140000
 SUMMARY:Sabadell - Parada Pi i Margall (PDF+Excel)
@@ -1413,7 +1413,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-30-mati-sant-cugat-parada-placa-octavia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260830T100000
 DTEND;TZID=Europe/Madrid:20260830T140000
 SUMMARY:Sant Cugat - Parada Plaça Octavià (PDF+Excel)
@@ -1423,7 +1423,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-31-mati-sabadell-enginyers-industrials@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260831T093000
 DTEND;TZID=Europe/Madrid:20260831T133000
 SUMMARY:Sabadell - Enginyers Industrials (PDF+Excel)
@@ -1433,7 +1433,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta | Previsió: 30 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-31-tarda-sabadell-centre-civic-can-rull@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260831T160000
 DTEND;TZID=Europe/Madrid:20260831T200000
 SUMMARY:Sabadell - Centre Cívic Can Rull (PDF+Excel)
@@ -1443,7 +1443,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta | Previsió: 30 donacions
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-08-31-tarda-sabadell-centre-civic-gracia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260831T160000
 DTEND;TZID=Europe/Madrid:20260831T200000
 SUMMARY:Sabadell - Centre Cívic Gràcia (PDF+Excel)
@@ -1453,7 +1453,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-01-mati-sabadell-enginyers-industrials@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260901T093000
 DTEND;TZID=Europe/Madrid:20260901T133000
 SUMMARY:Sabadell - Enginyers Industrials (PDF+Excel)
@@ -1463,7 +1463,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-01-mati-sant-cugat-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260901T090000
 DTEND;TZID=Europe/Madrid:20260901T130000
 SUMMARY:Sant Cugat - General (PDF+Excel)
@@ -1473,7 +1473,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-01-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260901T150000
 DTEND;TZID=Europe/Madrid:20260901T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1483,7 +1483,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta6 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-01-tarda-sant-cugat-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260901T170000
 DTEND;TZID=Europe/Madrid:20260901T210000
 SUMMARY:Sant Cugat - General (PDF+Excel)
@@ -1493,7 +1493,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-03-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260903T150000
 DTEND;TZID=Europe/Madrid:20260903T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1503,7 +1503,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta4 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-03-tarda-sabadell-centre-civic-can-llong@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260903T160000
 DTEND;TZID=Europe/Madrid:20260903T200000
 SUMMARY:Sabadell - Centre Cívic Can Llong (PDF+Excel)
@@ -1513,7 +1513,7 @@ DESCRIPTION:Vehicle: Furgoneta5 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-04-mati-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260904T093000
 DTEND;TZID=Europe/Madrid:20260904T133000
 SUMMARY:Sant Cugat - Casal Torreblanca (PDF+Excel)
@@ -1523,7 +1523,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-04-tarda-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260904T163000
 DTEND;TZID=Europe/Madrid:20260904T203000
 SUMMARY:Sant Cugat - Casal Torreblanca (PDF+Excel)
@@ -1533,7 +1533,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta1 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-07-mati-cerdanyola-ateneu@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260907T093000
 DTEND;TZID=Europe/Madrid:20260907T133000
 SUMMARY:Cerdanyola - Ateneu (PDF+Excel)
@@ -1543,7 +1543,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta3 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-07-tarda-cerdanyola-ateneu@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260907T163000
 DTEND;TZID=Europe/Madrid:20260907T203000
 SUMMARY:Cerdanyola - Ateneu (PDF+Excel)
@@ -1553,7 +1553,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta3 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-08-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260908T150000
 DTEND;TZID=Europe/Madrid:20260908T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1563,7 +1563,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta5 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-10-mati-hospitalet-gimnas-dir@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260910T080000
 DTEND;TZID=Europe/Madrid:20260910T140000
 SUMMARY:Hospitalet - Gimnàs DiR (Excel-Mati)
@@ -1572,7 +1572,7 @@ DESCRIPTION:Vehicle: Furgoneta5 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-10-mati-sabadell-parada-placa-dr-robert@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260910T100000
 DTEND;TZID=Europe/Madrid:20260910T140000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (PDF+Excel)
@@ -1582,7 +1582,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-10-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260910T150000
 DTEND;TZID=Europe/Madrid:20260910T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1592,7 +1592,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta4 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-10-tarda-sabadell-centre-civic-can-rull@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260910T160000
 DTEND;TZID=Europe/Madrid:20260910T200000
 SUMMARY:Sabadell - Centre Cívic Can Rull (PDF+Excel)
@@ -1602,7 +1602,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta2 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-10-tarda-sabadell-parada-placa-dr-robert@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260910T170000
 DTEND;TZID=Europe/Madrid:20260910T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (PDF+Excel)
@@ -1612,7 +1612,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | Observac
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-11-mati-hospitalet-rambla-marina@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260911T100000
 DTEND;TZID=Europe/Madrid:20260911T140000
 SUMMARY:Hospitalet - Rambla Marina (PDF+Excel)
@@ -1622,7 +1622,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-11-tarda-hospitalet-rambla-marina@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260911T170000
 DTEND;TZID=Europe/Madrid:20260911T210000
 SUMMARY:Hospitalet - Rambla Marina (PDF+Excel)
@@ -1632,7 +1632,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-13-mati-sabadell-antic-mercat-de-sant-joan@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260913T100000
 DTEND;TZID=Europe/Madrid:20260913T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (PDF+Excel)
@@ -1642,7 +1642,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta3 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-15-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260915T150000
 DTEND;TZID=Europe/Madrid:20260915T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1652,7 +1652,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta7 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-15-tarda-sabadell-centre-civic-can-deu@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260915T160000
 DTEND;TZID=Europe/Madrid:20260915T200000
 SUMMARY:Sabadell - Centre Cívic Can Déu (PDF+Excel)
@@ -1662,7 +1662,7 @@ DESCRIPTION:Vehicle: Furgoneta4 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-16-mati-sant-cugat-ricoh@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260916T093000
 DTEND;TZID=Europe/Madrid:20260916T133000
 SUMMARY:Sant Cugat - Ricoh (PDF+Excel)
@@ -1672,7 +1672,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Confirmada | ID ofici
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-16-mati-sant-cugat-asepeyo@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260916T093000
 DTEND;TZID=Europe/Madrid:20260916T133000
 SUMMARY:Sant Cugat - Asepeyo (PDF+Excel)
@@ -1682,7 +1682,7 @@ DESCRIPTION:Vehicle: Furgoneta1 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-17-mati-sant-cugat-bureau-veritas@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260917T093000
 DTEND;TZID=Europe/Madrid:20260917T133000
 SUMMARY:Sant Cugat - Bureau Veritas (PDF+Excel)
@@ -1692,7 +1692,7 @@ DESCRIPTION:Vehicle: Furgoneta8 | Previsió: 30 donacions | Confirmada | ID
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-17-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260917T150000
 DTEND;TZID=Europe/Madrid:20260917T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1702,7 +1702,7 @@ DESCRIPTION:PF (1 màquines) | Vehicle: Furgoneta8 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-18-mati-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260918T093000
 DTEND;TZID=Europe/Madrid:20260918T133000
 SUMMARY:Sant Cugat - Casal Torreblanca (PDF+Excel)
@@ -1712,7 +1712,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta5 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-18-tarda-sant-cugat-casal-torreblanca@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260918T163000
 DTEND;TZID=Europe/Madrid:20260918T203000
 SUMMARY:Sant Cugat - Casal Torreblanca (PDF+Excel)
@@ -1722,7 +1722,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta5 | Previsió: 40 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-20-mati-sabadell-antic-mercat-de-sant-joan@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260920T100000
 DTEND;TZID=Europe/Madrid:20260920T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (PDF+Excel)
@@ -1732,7 +1732,7 @@ DESCRIPTION:PF (3 màquines) | Vehicle: Furgoneta1 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-21-mati-sabadell-parada-placa-dr-robert@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260921T080000
 DTEND;TZID=Europe/Madrid:20260921T140000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (Excel-Mati)
@@ -1742,7 +1742,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-21-tarda-sabadell-parada-placa-dr-robert@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260921T150000
 DTEND;TZID=Europe/Madrid:20260921T200000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (Excel-Tarda)
@@ -1752,7 +1752,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 40 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-22-mati-sabadell-banc-sabadell@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260922T080000
 DTEND;TZID=Europe/Madrid:20260922T140000
 SUMMARY:Sabadell - Banc Sabadell (Excel-Mati)
@@ -1761,7 +1761,7 @@ DESCRIPTION:Vehicle: Furgoneta2 | Previsió: 30 donacions | Confirmada
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-22-tarda-hospitalet-institut-santa-eulalia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260922T150000
 DTEND;TZID=Europe/Madrid:20260922T200000
 SUMMARY:Hospitalet - Institut Santa Eulàlia (Excel-Tarda)
@@ -1771,7 +1771,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta1 | Previsió: 25 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-23-mati-sant-cugat-banc-sabadell@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260923T080000
 DTEND;TZID=Europe/Madrid:20260923T140000
 SUMMARY:Sant Cugat - Banc Sabadell (Excel-Mati)
@@ -1781,7 +1781,7 @@ DESCRIPTION:Vehicle: Furgoneta2 | Previsió: 40 donacions | Pendent de conf
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-23-tarda-sabadell-parada-pi-i-margall@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260923T150000
 DTEND;TZID=Europe/Madrid:20260923T200000
 SUMMARY:Sabadell - Parada Pi i Margall (Excel-Tarda)
@@ -1790,7 +1790,7 @@ DESCRIPTION:Vehicle: Bus2 | Previsió: 30 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-09-29-tarda-hospitalet-auditori-barradas@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260929T150000
 DTEND;TZID=Europe/Madrid:20260929T200000
 SUMMARY:Hospitalet - Auditori Barradas (Excel-Tarda)
@@ -1800,7 +1800,7 @@ DESCRIPTION:PF (2 màquines) | Vehicle: Furgoneta4 | Previsió: 30 donacion
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-10-01-mati-sant-cugat-ferrer@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20261001T080000
 DTEND;TZID=Europe/Madrid:20261001T140000
 SUMMARY:Sant Cugat - Ferrer (Excel-Mati)
@@ -1810,7 +1810,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 40 donacions | Pendent de confi
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-10-01-tarda-hospitalet-torre-barrina@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20261001T150000
 DTEND;TZID=Europe/Madrid:20261001T200000
 SUMMARY:Hospitalet - Torre Barrina (Excel-Tarda)
@@ -1820,7 +1820,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 30 donacions | Pendent de confi
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-10-21-tarda-hospitalet-la-florida@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20261021T150000
 DTEND;TZID=Europe/Madrid:20261021T200000
 SUMMARY:Hospitalet - La Florida (Excel-Tarda)
@@ -1829,7 +1829,7 @@ DESCRIPTION:Vehicle: Bus | Previsió: 40 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-10-26-mati-sant-cugat-parada-ajuntament@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20261026T080000
 DTEND;TZID=Europe/Madrid:20261026T140000
 SUMMARY:Sant Cugat - Parada Ajuntament (Excel-Mati)
@@ -1839,7 +1839,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-10-26-tarda-sant-cugat-parada-ajuntament@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20261026T150000
 DTEND;TZID=Europe/Madrid:20261026T200000
 SUMMARY:Sant Cugat - Parada Ajuntament (Excel-Tarda)
@@ -1849,7 +1849,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-10-28-mati-sant-cugat-boehringer-ingelheim@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20261028T080000
 DTEND;TZID=Europe/Madrid:20261028T140000
 SUMMARY:Sant Cugat - Boehringer Ingelheim (Excel-Mati)
@@ -1859,7 +1859,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 40 donacions | Pendent de confi
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-10-29-tarda-bellaterra-general@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20261029T150000
 DTEND;TZID=Europe/Madrid:20261029T200000
 SUMMARY:Bellaterra - General (Excel-Tarda)
@@ -1870,7 +1870,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-11-02-tarda-hospitalet-ca-n-arus-fira-de-la-salut@bst-donacion
  s
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20261102T150000
 DTEND;TZID=Europe/Madrid:20261102T200000
 SUMMARY:Hospitalet - Ca n'Arús (Fira de la Salut) (Excel-Tarda)
@@ -1879,7 +1879,7 @@ DESCRIPTION:Vehicle: Bus3 | Previsió: 30 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-11-11-mati-sant-cugat-ecuphar@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20261111T080000
 DTEND;TZID=Europe/Madrid:20261111T140000
 SUMMARY:Sant Cugat - Ecuphar (Excel-Mati)
@@ -1889,7 +1889,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 30 donacions | Pendent de confi
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-11-15-mati-sant-cugat-parada-placa-octavia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20261115T080000
 DTEND;TZID=Europe/Madrid:20261115T140000
 SUMMARY:Sant Cugat - Parada Plaça Octavià (Excel-Mati)
@@ -1898,7 +1898,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-12-03-mati-sant-cugat-fluidra@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20261203T080000
 DTEND;TZID=Europe/Madrid:20261203T140000
 SUMMARY:Sant Cugat - Fluidra (Excel-Mati)
@@ -1908,7 +1908,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 40 donacions | Pendent de confi
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-12-11-tarda-sant-cugat-parada-placa-octavia@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20261211T150000
 DTEND;TZID=Europe/Madrid:20261211T200000
 SUMMARY:Sant Cugat - Parada Plaça Octavià (Excel-Tarda)
@@ -1917,7 +1917,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 40 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-12-15-mati-sant-cugat-parada-ajuntament@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20261215T080000
 DTEND;TZID=Europe/Madrid:20261215T140000
 SUMMARY:Sant Cugat - Parada Ajuntament (Excel-Mati)
@@ -1927,7 +1927,7 @@ DESCRIPTION:Vehicle: Bus4 | Previsió: 30 donacions | Pendent de confirmar
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-2026-12-16-mati-sant-cugat-banc-sabadell@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20261216T080000
 DTEND;TZID=Europe/Madrid:20261216T140000
 SUMMARY:Sant Cugat - Banc Sabadell (Excel-Mati)
@@ -1937,7 +1937,7 @@ DESCRIPTION:Vehicle: Furgoneta | Previsió: 40 donacions | Pendent de confi
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-02-mati-668@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260202T093000
 DTEND;TZID=Europe/Madrid:20260202T133000
 SUMMARY:Cerdanyola - Ateneu (ONLY PDF)
@@ -1947,7 +1947,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 668 | Sense correspondènc
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-02-tarda-0B801@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260202T160000
 DTEND;TZID=Europe/Madrid:20260202T200000
 SUMMARY:Hospitalet - Auditori Barradas (ONLY PDF)
@@ -1957,7 +1957,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 0B801 | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-02-tarda-668A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260202T163000
 DTEND;TZID=Europe/Madrid:20260202T203000
 SUMMARY:Cerdanyola - Ateneu (ONLY PDF)
@@ -1967,7 +1967,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 668A | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-03-tarda-2626G@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260203T170000
 DTEND;TZID=Europe/Madrid:20260203T200000
 SUMMARY:Sabadell - Centre Cívic Ca n'Oriac (ONLY PDF)
@@ -1977,7 +1977,7 @@ DESCRIPTION:ID oficial (PDF): 2626G | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-04-mati-3022@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260204T090000
 DTEND;TZID=Europe/Madrid:20260204T130000
 SUMMARY:Hospitalet - C.T.T.I. (ONLY PDF)
@@ -1986,7 +1986,7 @@ DESCRIPTION:ID oficial (PDF): 3022 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-05-mati-2562@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260205T090000
 DTEND;TZID=Europe/Madrid:20260205T130000
 SUMMARY:Bellaterra - Applus (Bus al Campus) (ONLY PDF)
@@ -1995,7 +1995,7 @@ DESCRIPTION:ID oficial (PDF): 2562 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-06-mati-2006E@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260206T093000
 DTEND;TZID=Europe/Madrid:20260206T133000
 SUMMARY:Sant Cugat - Casal Torreblanca (ONLY PDF)
@@ -2005,7 +2005,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2006E | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-06-tarda-2006F@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260206T163000
 DTEND;TZID=Europe/Madrid:20260206T203000
 SUMMARY:Sant Cugat - Casal Torreblanca (ONLY PDF)
@@ -2015,7 +2015,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2006F | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-07-mati-668H@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260207T100000
 DTEND;TZID=Europe/Madrid:20260207T140000
 SUMMARY:Cerdanyola - Bus Plaça Abat Oliba (davant Ajuntament) (ONLY PDF)
@@ -2024,7 +2024,7 @@ DESCRIPTION:ID oficial (PDF): 668H | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-08-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260208T100000
 DTEND;TZID=Europe/Madrid:20260208T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -2034,7 +2034,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-09-mati-2706A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260209T093000
 DTEND;TZID=Europe/Madrid:20260209T130000
 SUMMARY:Cerdanyola - Alba Synchrotron (ONLY PDF)
@@ -2044,7 +2044,7 @@ DESCRIPTION:PF (1 màquines) | ID oficial (PDF): 2706A | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-09-tarda-2921A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260209T160000
 DTEND;TZID=Europe/Madrid:20260209T200000
 SUMMARY:Sabadell - Centre Cívic Can Déu (ONLY PDF)
@@ -2054,7 +2054,7 @@ DESCRIPTION:ID oficial (PDF): 2921A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-11-tarda-3298@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260211T160000
 DTEND;TZID=Europe/Madrid:20260211T193000
 SUMMARY:Hospitalet - Gornal Activa (ONLY PDF)
@@ -2064,7 +2064,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 3298 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-13-tarda-2626@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260213T160000
 DTEND;TZID=Europe/Madrid:20260213T200000
 SUMMARY:Sabadell - Centre Cívic Gràcia (ONLY PDF)
@@ -2073,7 +2073,7 @@ DESCRIPTION:ID oficial (PDF): 2626 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-14-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260214T100000
 DTEND;TZID=Europe/Madrid:20260214T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -2082,7 +2082,7 @@ DESCRIPTION:ID oficial (PDF): 2814 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-15-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260215T100000
 DTEND;TZID=Europe/Madrid:20260215T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -2092,7 +2092,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-16-mati-668@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260216T093000
 DTEND;TZID=Europe/Madrid:20260216T133000
 SUMMARY:Cerdanyola - Ateneu (ONLY PDF)
@@ -2102,7 +2102,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 668 | Sense correspondènc
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-16-tarda-2627@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260216T160000
 DTEND;TZID=Europe/Madrid:20260216T200000
 SUMMARY:Sabadell - Centre Cívic Creu de Barberà (ONLY PDF)
@@ -2111,7 +2111,7 @@ DESCRIPTION:ID oficial (PDF): 2627 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-16-tarda-3219@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260216T170000
 DTEND;TZID=Europe/Madrid:20260216T210000
 SUMMARY:Sabadell - Bus Pi i Margall (davant El Corte Inglés) (ONLY PDF)
@@ -2120,7 +2120,7 @@ DESCRIPTION:ID oficial (PDF): 3219 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-16-tarda-668A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260216T163000
 DTEND;TZID=Europe/Madrid:20260216T203000
 SUMMARY:Cerdanyola - Ateneu (ONLY PDF)
@@ -2130,7 +2130,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 668A | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-17-mati-3258@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260217T100000
 DTEND;TZID=Europe/Madrid:20260217T130000
 SUMMARY:Sabadell - Institut Ribot i Serra (ONLY PDF)
@@ -2139,7 +2139,7 @@ DESCRIPTION:ID oficial (PDF): 3258 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-17-tarda-3258A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260217T160000
 DTEND;TZID=Europe/Madrid:20260217T200000
 SUMMARY:Sabadell - Institut Ribot i Serra (ONLY PDF)
@@ -2149,7 +2149,7 @@ DESCRIPTION:ID oficial (PDF): 3258A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-18-tarda-723B@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260218T160000
 DTEND;TZID=Europe/Madrid:20260218T193000
 SUMMARY:VALLDOREIX Poble Sala de Plens Pl. Pompeu Fabra 08197 VALLDOREIX-SA
@@ -2161,7 +2161,7 @@ DESCRIPTION:PF (1 màquines) | ID oficial (PDF): 723B | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-20-mati-0A997@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260220T100000
 DTEND;TZID=Europe/Madrid:20260220T140000
 SUMMARY:Hospitalet - Bus Carrer Enginyer Moncunill (La Florida) (ONLY PDF)
@@ -2171,7 +2171,7 @@ DESCRIPTION:ID oficial (PDF): 0A997 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-20-mati-2006E@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260220T093000
 DTEND;TZID=Europe/Madrid:20260220T133000
 SUMMARY:Sant Cugat - Casal Torreblanca (ONLY PDF)
@@ -2181,7 +2181,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2006E | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-20-tarda-0B997@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260220T170000
 DTEND;TZID=Europe/Madrid:20260220T210000
 SUMMARY:Hospitalet - Bus Carrer Enginyer Moncunill (La Florida) (ONLY PDF)
@@ -2191,7 +2191,7 @@ DESCRIPTION:ID oficial (PDF): 0B997 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-20-tarda-2006F@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260220T163000
 DTEND;TZID=Europe/Madrid:20260220T203000
 SUMMARY:Sant Cugat - Casal Torreblanca (ONLY PDF)
@@ -2201,7 +2201,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2006F | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-22-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260222T100000
 DTEND;TZID=Europe/Madrid:20260222T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -2211,7 +2211,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-25-mati-1939@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260225T090000
 DTEND;TZID=Europe/Madrid:20260225T133000
 SUMMARY:Hospitalet - Plaça Europa (Puig) (ONLY PDF)
@@ -2220,7 +2220,7 @@ DESCRIPTION:ID oficial (PDF): 1939 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-25-tarda-1420A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260225T170000
 DTEND;TZID=Europe/Madrid:20260225T210000
 SUMMARY:Sabadell - Club Natació Sabadell (ONLY PDF)
@@ -2230,7 +2230,7 @@ DESCRIPTION:ID oficial (PDF): 1420A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-26-mati-2640@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260226T100000
 DTEND;TZID=Europe/Madrid:20260226T140000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -2239,7 +2239,7 @@ DESCRIPTION:ID oficial (PDF): 2640 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-26-tarda-0B802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260226T170000
 DTEND;TZID=Europe/Madrid:20260226T210000
 SUMMARY:Hospitalet - Bus Plaça Francesc Macià (Santa Eulàlia) (ONLY PDF)
@@ -2249,7 +2249,7 @@ DESCRIPTION:ID oficial (PDF): 0B802 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-26-tarda-2412A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260226T160000
 DTEND;TZID=Europe/Madrid:20260226T200000
 SUMMARY:Sabadell - Biblioteca de Ponent (ONLY PDF)
@@ -2259,7 +2259,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2412A | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-26-tarda-2640A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260226T170000
 DTEND;TZID=Europe/Madrid:20260226T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -2269,7 +2269,7 @@ DESCRIPTION:ID oficial (PDF): 2640A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-02-27-mati-3147@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260227T090000
 DTEND;TZID=Europe/Madrid:20260227T130000
 SUMMARY:HOSPITALET LL. CEAC C. Salvador Espriu\, 38 08908 L'HOSPITALET DE L
@@ -2280,7 +2280,7 @@ DESCRIPTION:ID oficial (PDF): 3147 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-01-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260301T100000
 DTEND;TZID=Europe/Madrid:20260301T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -2290,7 +2290,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-02-mati-668@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260302T093000
 DTEND;TZID=Europe/Madrid:20260302T133000
 SUMMARY:Cerdanyola - Ateneu (ONLY PDF)
@@ -2300,7 +2300,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 668 | Sense correspondènc
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-02-tarda-668A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260302T163000
 DTEND;TZID=Europe/Madrid:20260302T203000
 SUMMARY:Cerdanyola - Ateneu (ONLY PDF)
@@ -2310,7 +2310,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 668A | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-04-mati-1089B@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260304T090000
 DTEND;TZID=Europe/Madrid:20260304T130000
 SUMMARY:Sant Cugat - Boehringer Ingelheim (ONLY PDF)
@@ -2320,7 +2320,7 @@ DESCRIPTION:ID oficial (PDF): 1089B | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-06-mati-0A802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260306T100000
 DTEND;TZID=Europe/Madrid:20260306T140000
 SUMMARY:Hospitalet - Bus Plaça Francesc Macià (Santa Eulàlia) (ONLY PDF)
@@ -2330,7 +2330,7 @@ DESCRIPTION:ID oficial (PDF): 0A802 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-06-tarda-0B802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260306T170000
 DTEND;TZID=Europe/Madrid:20260306T210000
 SUMMARY:Hospitalet - Bus Plaça Francesc Macià (Santa Eulàlia) (ONLY PDF)
@@ -2340,7 +2340,7 @@ DESCRIPTION:ID oficial (PDF): 0B802 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-07-mati-1961B@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260307T090000
 DTEND;TZID=Europe/Madrid:20260307T140000
 SUMMARY:Hospitalet - Parc de Bombers (ONLY PDF)
@@ -2350,7 +2350,7 @@ DESCRIPTION:ID oficial (PDF): 1961B | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-07-mati-2649@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260307T100000
 DTEND;TZID=Europe/Madrid:20260307T140000
 SUMMARY:Sant Cugat - Institució La Farga (ONLY PDF)
@@ -2359,7 +2359,7 @@ DESCRIPTION:ID oficial (PDF): 2649 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-11-mati-2430A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260311T090000
 DTEND;TZID=Europe/Madrid:20260311T130000
 SUMMARY:Sant Cugat - Escola Catalunya (ONLY PDF)
@@ -2369,7 +2369,7 @@ DESCRIPTION:ID oficial (PDF): 2430A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-12-mati-2640@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260312T100000
 DTEND;TZID=Europe/Madrid:20260312T140000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -2378,7 +2378,7 @@ DESCRIPTION:ID oficial (PDF): 2640 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-12-tarda-1953@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260312T173000
 DTEND;TZID=Europe/Madrid:20260312T210000
 SUMMARY:Bellaterra - Centre Cívic EMD (ONLY PDF)
@@ -2388,7 +2388,7 @@ DESCRIPTION:PF (1 màquines) | ID oficial (PDF): 1953 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-12-tarda-2640A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260312T170000
 DTEND;TZID=Europe/Madrid:20260312T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -2398,7 +2398,7 @@ DESCRIPTION:ID oficial (PDF): 2640A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-13-mati-2006E@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260313T093000
 DTEND;TZID=Europe/Madrid:20260313T133000
 SUMMARY:Sant Cugat - Casal Torreblanca (ONLY PDF)
@@ -2408,7 +2408,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2006E | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-13-tarda-1254A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260313T170000
 DTEND;TZID=Europe/Madrid:20260313T210000
 SUMMARY:Sant Cugat - Unitat Mòbil Plaça Octavià (ONLY PDF)
@@ -2418,7 +2418,7 @@ DESCRIPTION:ID oficial (PDF): 1254A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-15-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260315T100000
 DTEND;TZID=Europe/Madrid:20260315T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -2428,7 +2428,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-26-mati-2640@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260326T100000
 DTEND;TZID=Europe/Madrid:20260326T140000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -2437,7 +2437,7 @@ DESCRIPTION:ID oficial (PDF): 2640 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-26-tarda-2640A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260326T170000
 DTEND;TZID=Europe/Madrid:20260326T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -2447,7 +2447,7 @@ DESCRIPTION:ID oficial (PDF): 2640A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-27-tarda-2626@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260327T170000
 DTEND;TZID=Europe/Madrid:20260327T200000
 SUMMARY:Sabadell - Centre Cívic Gràcia (ONLY PDF)
@@ -2456,7 +2456,7 @@ DESCRIPTION:ID oficial (PDF): 2626 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-29-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260329T100000
 DTEND;TZID=Europe/Madrid:20260329T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -2466,7 +2466,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-30-mati-3219A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260330T100000
 DTEND;TZID=Europe/Madrid:20260330T140000
 SUMMARY:Sabadell - Bus Pi i Margall (davant El Corte Inglés) (ONLY PDF)
@@ -2476,7 +2476,7 @@ DESCRIPTION:ID oficial (PDF): 3219A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-03-30-tarda-3219@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260330T170000
 DTEND;TZID=Europe/Madrid:20260330T210000
 SUMMARY:Sabadell - Bus Pi i Margall (davant El Corte Inglés) (ONLY PDF)
@@ -2485,7 +2485,7 @@ DESCRIPTION:ID oficial (PDF): 3219 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-01-mati-0A802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260401T100000
 DTEND;TZID=Europe/Madrid:20260401T140000
 SUMMARY:Hospitalet - Bus Plaça Francesc Macià (Santa Eulàlia) (ONLY PDF)
@@ -2495,7 +2495,7 @@ DESCRIPTION:ID oficial (PDF): 0A802 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-01-tarda-0B802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260401T170000
 DTEND;TZID=Europe/Madrid:20260401T210000
 SUMMARY:Hospitalet - Bus Plaça Francesc Macià (Santa Eulàlia) (ONLY PDF)
@@ -2505,7 +2505,7 @@ DESCRIPTION:ID oficial (PDF): 0B802 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-01-tarda-2052D@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260401T160000
 DTEND;TZID=Europe/Madrid:20260401T200000
 SUMMARY:Sabadell - Centre Cívic La Concòrdia (ONLY PDF)
@@ -2515,7 +2515,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2052D | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-03-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260403T100000
 DTEND;TZID=Europe/Madrid:20260403T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -2525,7 +2525,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-05-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260405T100000
 DTEND;TZID=Europe/Madrid:20260405T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -2535,7 +2535,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-08-mati-3274@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260408T100000
 DTEND;TZID=Europe/Madrid:20260408T140000
 SUMMARY:Sant Cugat - CreaNova School (ONLY PDF)
@@ -2544,7 +2544,7 @@ DESCRIPTION:ID oficial (PDF): 3274 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-08-tarda-3166@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260408T160000
 DTEND;TZID=Europe/Madrid:20260408T193000
 SUMMARY:Sabadell - Institut Vallès (ONLY PDF)
@@ -2553,7 +2553,7 @@ DESCRIPTION:ID oficial (PDF): 3166 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-09-tarda-2640A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260409T170000
 DTEND;TZID=Europe/Madrid:20260409T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -2563,7 +2563,7 @@ DESCRIPTION:ID oficial (PDF): 2640A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-09-tarda-3283@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260409T160000
 DTEND;TZID=Europe/Madrid:20260409T200000
 SUMMARY:Sabadell - Escola Font Rosella (ONLY PDF)
@@ -2572,7 +2572,7 @@ DESCRIPTION:ID oficial (PDF): 3283 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-10-mati-2006E@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260410T093000
 DTEND;TZID=Europe/Madrid:20260410T133000
 SUMMARY:Sant Cugat - Casal Torreblanca (ONLY PDF)
@@ -2582,7 +2582,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2006E | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-10-tarda-2006F@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260410T163000
 DTEND;TZID=Europe/Madrid:20260410T203000
 SUMMARY:Sant Cugat - Casal Torreblanca (ONLY PDF)
@@ -2592,7 +2592,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2006F | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-10-tarda-3101@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260410T160000
 DTEND;TZID=Europe/Madrid:20260410T200000
 SUMMARY:Sabadell - Escola Tarrés (ONLY PDF)
@@ -2601,7 +2601,7 @@ DESCRIPTION:ID oficial (PDF): 3101 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-13-tarda-3219@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260413T170000
 DTEND;TZID=Europe/Madrid:20260413T210000
 SUMMARY:Sabadell - Bus Pi i Margall (davant El Corte Inglés) (ONLY PDF)
@@ -2610,7 +2610,7 @@ DESCRIPTION:ID oficial (PDF): 3219 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-16-mati-0P801@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260416T100000
 DTEND;TZID=Europe/Madrid:20260416T140000
 SUMMARY:Hospitalet - Ca n'Arús (Fira de la Salut) (ONLY PDF)
@@ -2620,7 +2620,7 @@ DESCRIPTION:ID oficial (PDF): 0P801 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-16-tarda-0E801@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260416T160000
 DTEND;TZID=Europe/Madrid:20260416T200000
 SUMMARY:Hospitalet - Ca n'Arús (Fira de la Salut) (ONLY PDF)
@@ -2630,7 +2630,7 @@ DESCRIPTION:ID oficial (PDF): 0E801 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-16-tarda-2640A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260416T170000
 DTEND;TZID=Europe/Madrid:20260416T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -2640,7 +2640,7 @@ DESCRIPTION:ID oficial (PDF): 2640A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-16-tarda-2818A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260416T170000
 DTEND;TZID=Europe/Madrid:20260416T200000
 SUMMARY:Sabadell - Centre Cívic Creu Alta-Cal Balsach (ONLY PDF)
@@ -2650,7 +2650,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2818A | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-17-mati-2623@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260417T100000
 DTEND;TZID=Europe/Madrid:20260417T150000
 SUMMARY:Sabadell - Cooperativa Jaume Viladoms (ONLY PDF)
@@ -2659,7 +2659,7 @@ DESCRIPTION:ID oficial (PDF): 2623 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-17-tarda-2623A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260417T150000
 DTEND;TZID=Europe/Madrid:20260417T190000
 SUMMARY:Sabadell - Cooperativa Jaume Viladoms (ONLY PDF)
@@ -2669,7 +2669,7 @@ DESCRIPTION:ID oficial (PDF): 2623A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-20-mati-668H@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260420T100000
 DTEND;TZID=Europe/Madrid:20260420T140000
 SUMMARY:Cerdanyola - Bus Plaça Abat Oliba (davant Ajuntament) (ONLY PDF)
@@ -2678,7 +2678,7 @@ DESCRIPTION:ID oficial (PDF): 668H | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-20-tarda-668I@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260420T170000
 DTEND;TZID=Europe/Madrid:20260420T200000
 SUMMARY:Cerdanyola - Bus Plaça Abat Oliba (davant Ajuntament) (ONLY PDF)
@@ -2687,7 +2687,7 @@ DESCRIPTION:ID oficial (PDF): 668I | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-21-mati-1548A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260421T100000
 DTEND;TZID=Europe/Madrid:20260421T130000
 SUMMARY:Hospitalet - Centre de Formació d'Adults Can Serra (ONLY PDF)
@@ -2697,7 +2697,7 @@ DESCRIPTION:ID oficial (PDF): 1548A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-22-tarda-2619@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260422T160000
 DTEND;TZID=Europe/Madrid:20260422T200000
 SUMMARY:Sabadell - Institut Agustí Serra i Fontanet (ONLY PDF)
@@ -2706,7 +2706,7 @@ DESCRIPTION:ID oficial (PDF): 2619 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-22-tarda-3058A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260422T160000
 DTEND;TZID=Europe/Madrid:20260422T200000
 SUMMARY:Hospitalet - Centre d'Estudis Dolmen (ONLY PDF)
@@ -2716,7 +2716,7 @@ DESCRIPTION:ID oficial (PDF): 3058A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-22-tarda-3186@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260422T160000
 DTEND;TZID=Europe/Madrid:20260422T200000
 SUMMARY:Sabadell - Escola MdD de la Salut (ONLY PDF)
@@ -2725,7 +2725,7 @@ DESCRIPTION:ID oficial (PDF): 3186 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-23-mati-2531@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260423T090000
 DTEND;TZID=Europe/Madrid:20260423T130000
 SUMMARY:Sant Cugat - Roche Diagnostics (ONLY PDF)
@@ -2734,7 +2734,7 @@ DESCRIPTION:ID oficial (PDF): 2531 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-23-tarda-0B802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260423T170000
 DTEND;TZID=Europe/Madrid:20260423T210000
 SUMMARY:Hospitalet - Bus Plaça Francesc Macià (Santa Eulàlia) (ONLY PDF)
@@ -2744,7 +2744,7 @@ DESCRIPTION:ID oficial (PDF): 0B802 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-24-mati-2006E@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260424T093000
 DTEND;TZID=Europe/Madrid:20260424T133000
 SUMMARY:Sant Cugat - Casal Torreblanca (ONLY PDF)
@@ -2754,7 +2754,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2006E | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-24-tarda-2006F@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260424T170000
 DTEND;TZID=Europe/Madrid:20260424T203000
 SUMMARY:Sant Cugat - Casal Torreblanca (ONLY PDF)
@@ -2764,7 +2764,7 @@ DESCRIPTION:ID oficial (PDF): 2006F | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-24-tarda-2083@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260424T163000
 DTEND;TZID=Europe/Madrid:20260424T200000
 SUMMARY:Sabadell - Escola Pia de Sabadell (ONLY PDF)
@@ -2773,7 +2773,7 @@ DESCRIPTION:ID oficial (PDF): 2083 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-27-mati-3284@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260427T093000
 DTEND;TZID=Europe/Madrid:20260427T143000
 SUMMARY:Sabadell - IKEA (ONLY PDF)
@@ -2782,7 +2782,7 @@ DESCRIPTION:ID oficial (PDF): 3284 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-27-tarda-2895A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260427T160000
 DTEND;TZID=Europe/Madrid:20260427T200000
 SUMMARY:Hospitalet - Sant Jaume de la FEP (ONLY PDF)
@@ -2792,7 +2792,7 @@ DESCRIPTION:ID oficial (PDF): 2895A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-29-tarda-3148@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260429T160000
 DTEND;TZID=Europe/Madrid:20260429T200000
 SUMMARY:Hospitalet - Institut Can Vilumara (ONLY PDF)
@@ -2802,7 +2802,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 3148 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-04-30-tarda-3255@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260430T160000
 DTEND;TZID=Europe/Madrid:20260430T200000
 SUMMARY:Hospitalet - Torre Barrina (ONLY PDF)
@@ -2811,7 +2811,7 @@ DESCRIPTION:ID oficial (PDF): 3255 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-03-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260503T100000
 DTEND;TZID=Europe/Madrid:20260503T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -2821,7 +2821,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-04-mati-668H@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260504T100000
 DTEND;TZID=Europe/Madrid:20260504T140000
 SUMMARY:Cerdanyola - Bus Plaça Abat Oliba (davant Ajuntament) (ONLY PDF)
@@ -2830,7 +2830,7 @@ DESCRIPTION:ID oficial (PDF): 668H | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-04-tarda-668I@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260504T170000
 DTEND;TZID=Europe/Madrid:20260504T210000
 SUMMARY:Cerdanyola - Bus Plaça Abat Oliba (davant Ajuntament) (ONLY PDF)
@@ -2839,7 +2839,7 @@ DESCRIPTION:ID oficial (PDF): 668I | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-06-tarda-2621@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260506T163000
 DTEND;TZID=Europe/Madrid:20260506T193000
 SUMMARY:Sabadell - Institut Sabadell (ONLY PDF)
@@ -2848,7 +2848,7 @@ DESCRIPTION:ID oficial (PDF): 2621 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-06-tarda-2948@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260506T163000
 DTEND;TZID=Europe/Madrid:20260506T194500
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -2857,7 +2857,7 @@ DESCRIPTION:ID oficial (PDF): 2948 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-07-mati-2640@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260507T093000
 DTEND;TZID=Europe/Madrid:20260507T133000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -2866,7 +2866,7 @@ DESCRIPTION:ID oficial (PDF): 2640 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-08-mati-3332@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260508T100000
 DTEND;TZID=Europe/Madrid:20260508T150000
 SUMMARY:Sabadell - LaNau112 (ONLY PDF)
@@ -2875,7 +2875,7 @@ DESCRIPTION:ID oficial (PDF): 3332 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-08-tarda-3332A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260508T150000
 DTEND;TZID=Europe/Madrid:20260508T200000
 SUMMARY:Sabadell - LaNau112 (ONLY PDF)
@@ -2885,7 +2885,7 @@ DESCRIPTION:ID oficial (PDF): 3332A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-09-tarda-2178A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260509T160000
 DTEND;TZID=Europe/Madrid:20260509T200000
 SUMMARY:Sant Cugat - Escola Thau (ONLY PDF)
@@ -2895,7 +2895,7 @@ DESCRIPTION:ID oficial (PDF): 2178A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-10-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260510T100000
 DTEND;TZID=Europe/Madrid:20260510T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -2905,7 +2905,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-11-tarda-3219@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260511T170000
 DTEND;TZID=Europe/Madrid:20260511T210000
 SUMMARY:Sabadell - Bus Pi i Margall (davant El Corte Inglés) (ONLY PDF)
@@ -2914,7 +2914,7 @@ DESCRIPTION:ID oficial (PDF): 3219 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-12-tarda-1738@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260512T160000
 DTEND;TZID=Europe/Madrid:20260512T200000
 SUMMARY:Hospitalet - Escola Pare Enric d'Ossó (ONLY PDF)
@@ -2924,7 +2924,7 @@ DESCRIPTION:PF (1 màquines) | ID oficial (PDF): 1738 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-14-mati-2071@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260514T090000
 DTEND;TZID=Europe/Madrid:20260514T130000
 SUMMARY:Sabadell - Institut Castellarnau (ONLY PDF)
@@ -2933,7 +2933,7 @@ DESCRIPTION:ID oficial (PDF): 2071 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-14-tarda-2071A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260514T160000
 DTEND;TZID=Europe/Madrid:20260514T200000
 SUMMARY:Sabadell - Institut Castellarnau (ONLY PDF)
@@ -2943,7 +2943,7 @@ DESCRIPTION:ID oficial (PDF): 2071A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-14-tarda-3176@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260514T160000
 DTEND;TZID=Europe/Madrid:20260514T200000
 SUMMARY:Sabadell - Institut Escola Virolet (ONLY PDF)
@@ -2953,7 +2953,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 3176 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-15-mati-2006E@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260515T093000
 DTEND;TZID=Europe/Madrid:20260515T133000
 SUMMARY:Sant Cugat - Casal Torreblanca (ONLY PDF)
@@ -2963,7 +2963,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2006E | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-15-mati-2640@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260515T100000
 DTEND;TZID=Europe/Madrid:20260515T140000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -2972,7 +2972,7 @@ DESCRIPTION:ID oficial (PDF): 2640 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-15-mati-3189@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260515T100000
 DTEND;TZID=Europe/Madrid:20260515T140000
 SUMMARY:Sabadell - Institut Joan Sallarès i Pla (ONLY PDF)
@@ -2981,7 +2981,7 @@ DESCRIPTION:ID oficial (PDF): 3189 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-15-tarda-2006F@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260515T163000
 DTEND;TZID=Europe/Madrid:20260515T203000
 SUMMARY:Sant Cugat - Casal Torreblanca (ONLY PDF)
@@ -2991,7 +2991,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2006F | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-15-tarda-2640A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260515T170000
 DTEND;TZID=Europe/Madrid:20260515T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -3001,7 +3001,7 @@ DESCRIPTION:ID oficial (PDF): 2640A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-15-tarda-2939@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260515T160000
 DTEND;TZID=Europe/Madrid:20260515T200000
 SUMMARY:Sabadell - Institut Narcisa Freixas i Cruells (ONLY PDF)
@@ -3010,7 +3010,7 @@ DESCRIPTION:ID oficial (PDF): 2939 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-18-mati-668H@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260518T100000
 DTEND;TZID=Europe/Madrid:20260518T140000
 SUMMARY:Cerdanyola - Bus Plaça Abat Oliba (davant Ajuntament) (ONLY PDF)
@@ -3019,7 +3019,7 @@ DESCRIPTION:ID oficial (PDF): 668H | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-18-tarda-668I@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260518T160000
 DTEND;TZID=Europe/Madrid:20260518T200000
 SUMMARY:Cerdanyola - Bus Plaça Abat Oliba (davant Ajuntament) (ONLY PDF)
@@ -3028,7 +3028,7 @@ DESCRIPTION:ID oficial (PDF): 668I | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-19-mati-2651@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260519T090000
 DTEND;TZID=Europe/Madrid:20260519T130000
 SUMMARY:Sant Cugat - Unitat Mòbil davant Ajuntament (ONLY PDF)
@@ -3037,7 +3037,7 @@ DESCRIPTION:ID oficial (PDF): 2651 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-20-mati-2084A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260520T090000
 DTEND;TZID=Europe/Madrid:20260520T130000
 SUMMARY:Sant Cugat - Uriach (ONLY PDF)
@@ -3047,7 +3047,7 @@ DESCRIPTION:ID oficial (PDF): 2084A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-20-tarda-3091@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260520T160000
 DTEND;TZID=Europe/Madrid:20260520T200000
 SUMMARY:Sabadell - Escola Roureda (ONLY PDF)
@@ -3056,7 +3056,7 @@ DESCRIPTION:ID oficial (PDF): 3091 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-21-tarda-2640A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260521T170000
 DTEND;TZID=Europe/Madrid:20260521T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -3066,7 +3066,7 @@ DESCRIPTION:ID oficial (PDF): 2640A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-22-tarda-2003@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260522T160000
 DTEND;TZID=Europe/Madrid:20260522T193000
 SUMMARY:Sabadell - Menjador Escola Sant Nicolau (ONLY PDF)
@@ -3075,7 +3075,7 @@ DESCRIPTION:ID oficial (PDF): 2003 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-23-mati-3071@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260523T100000
 DTEND;TZID=Europe/Madrid:20260523T140000
 SUMMARY:Sabadell - Club Tennis Sabadell (ONLY PDF)
@@ -3084,7 +3084,7 @@ DESCRIPTION:ID oficial (PDF): 3071 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-24-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260524T100000
 DTEND;TZID=Europe/Madrid:20260524T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -3094,7 +3094,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-26-tarda-0B997@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260526T170000
 DTEND;TZID=Europe/Madrid:20260526T210000
 SUMMARY:Hospitalet - Bus Carrer Enginyer Moncunill (La Florida) (ONLY PDF)
@@ -3104,7 +3104,7 @@ DESCRIPTION:ID oficial (PDF): 0B997 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-27-mati-1743B@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260527T090000
 DTEND;TZID=Europe/Madrid:20260527T130000
 SUMMARY:Hospitalet - Rambla Marina (ONLY PDF)
@@ -3114,7 +3114,7 @@ DESCRIPTION:ID oficial (PDF): 1743B | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-27-tarda-2618@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260527T160000
 DTEND;TZID=Europe/Madrid:20260527T200000
 SUMMARY:Sabadell - Institut Escola Industrial (ONLY PDF)
@@ -3123,7 +3123,7 @@ DESCRIPTION:ID oficial (PDF): 2618 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-28-tarda-0B802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260528T170000
 DTEND;TZID=Europe/Madrid:20260528T210000
 SUMMARY:Hospitalet - Bus Plaça Francesc Macià (Santa Eulàlia) (ONLY PDF)
@@ -3133,7 +3133,7 @@ DESCRIPTION:ID oficial (PDF): 0B802 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-29-mati-2006E@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260529T093000
 DTEND;TZID=Europe/Madrid:20260529T133000
 SUMMARY:Sant Cugat - Casal Torreblanca (ONLY PDF)
@@ -3143,7 +3143,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2006E | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-05-29-tarda-2006F@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260529T163000
 DTEND;TZID=Europe/Madrid:20260529T203000
 SUMMARY:Sant Cugat - Casal Torreblanca (ONLY PDF)
@@ -3153,7 +3153,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2006F | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-06-04-tarda-2640A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260604T170000
 DTEND;TZID=Europe/Madrid:20260604T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -3163,7 +3163,7 @@ DESCRIPTION:ID oficial (PDF): 2640A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-06-05-tarda-668A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260605T160000
 DTEND;TZID=Europe/Madrid:20260605T200000
 SUMMARY:Cerdanyola - Ateneu (ONLY PDF)
@@ -3173,7 +3173,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 668A | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-06-07-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260607T100000
 DTEND;TZID=Europe/Madrid:20260607T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -3183,7 +3183,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-06-14-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260614T100000
 DTEND;TZID=Europe/Madrid:20260614T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -3193,7 +3193,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-06-21-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260621T100000
 DTEND;TZID=Europe/Madrid:20260621T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -3203,7 +3203,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-06-22-tarda-3219@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260622T170000
 DTEND;TZID=Europe/Madrid:20260622T210000
 SUMMARY:Sabadell - Bus Pi i Margall (davant El Corte Inglés) (ONLY PDF)
@@ -3211,17 +3211,8 @@ LOCATION:Sabadell - Bus Pi i Margall (davant El Corte Inglés)
 DESCRIPTION:ID oficial (PDF): 3219 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
-UID:bst-pdf-2026-06-23-mati-2651@bst-donacions
-DTSTAMP:20260821T101629Z
-DTSTART;TZID=Europe/Madrid:20260623T090000
-DTEND;TZID=Europe/Madrid:20260623T130000
-SUMMARY:Sant Cugat - Unitat Mòbil davant Ajuntament (ONLY PDF)
-LOCATION:Sant Cugat - Unitat Mòbil davant Ajuntament
-DESCRIPTION:ID oficial (PDF): 2651 | Sense correspondència al Planificacio
-END:VEVENT
-BEGIN:VEVENT
 UID:bst-pdf-2026-06-25-mati-2640@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260625T100000
 DTEND;TZID=Europe/Madrid:20260625T140000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -3230,7 +3221,7 @@ DESCRIPTION:ID oficial (PDF): 2640 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-06-25-tarda-2640A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260625T170000
 DTEND;TZID=Europe/Madrid:20260625T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -3240,7 +3231,7 @@ DESCRIPTION:ID oficial (PDF): 2640A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-06-28-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260628T100000
 DTEND;TZID=Europe/Madrid:20260628T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -3250,7 +3241,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-07-01-tarda-2923@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260701T160000
 DTEND;TZID=Europe/Madrid:20260701T200000
 SUMMARY:Sabadell - Centre Cívic Can Llong (ONLY PDF)
@@ -3259,7 +3250,7 @@ DESCRIPTION:ID oficial (PDF): 2923 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-07-01-tarda-3219@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260701T170000
 DTEND;TZID=Europe/Madrid:20260701T210000
 SUMMARY:Sabadell - Bus Pi i Margall (davant El Corte Inglés) (ONLY PDF)
@@ -3268,7 +3259,7 @@ DESCRIPTION:ID oficial (PDF): 3219 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-07-02-tarda-3255@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260702T160000
 DTEND;TZID=Europe/Madrid:20260702T200000
 SUMMARY:Hospitalet - Torre Barrina (ONLY PDF)
@@ -3277,7 +3268,7 @@ DESCRIPTION:ID oficial (PDF): 3255 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-07-03-mati-0A802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260703T100000
 DTEND;TZID=Europe/Madrid:20260703T140000
 SUMMARY:Hospitalet - Bus Plaça Francesc Macià (Santa Eulàlia) (ONLY PDF)
@@ -3287,7 +3278,7 @@ DESCRIPTION:ID oficial (PDF): 0A802 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-07-05-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260705T100000
 DTEND;TZID=Europe/Madrid:20260705T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -3297,7 +3288,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-07-14-tarda-2627@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260714T160000
 DTEND;TZID=Europe/Madrid:20260714T200000
 SUMMARY:Sabadell - Centre Cívic Creu de Barberà (ONLY PDF)
@@ -3307,7 +3298,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2627 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-07-16-tarda-2052D@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260716T160000
 DTEND;TZID=Europe/Madrid:20260716T200000
 SUMMARY:Sabadell - Centre Cívic La Concòrdia (ONLY PDF)
@@ -3317,7 +3308,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 2052D | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-07-16-tarda-2640A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260716T170000
 DTEND;TZID=Europe/Madrid:20260716T210000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -3327,7 +3318,7 @@ DESCRIPTION:ID oficial (PDF): 2640A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-07-18-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260718T100000
 DTEND;TZID=Europe/Madrid:20260718T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -3337,7 +3328,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-07-19-mati-2814@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260719T100000
 DTEND;TZID=Europe/Madrid:20260719T140000
 SUMMARY:Sabadell - Antic Mercat de Sant Joan (ONLY PDF)
@@ -3347,7 +3338,7 @@ DESCRIPTION:PF (3 màquines) | ID oficial (PDF): 2814 | Sense correspondèn
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-07-30-mati-0I802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260730T100000
 DTEND;TZID=Europe/Madrid:20260730T140000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3357,7 +3348,7 @@ DESCRIPTION:ID oficial (PDF): 0I802 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-07-30-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260730T170000
 DTEND;TZID=Europe/Madrid:20260730T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3367,7 +3358,7 @@ DESCRIPTION:ID oficial (PDF): 0H802 | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-08-04-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260804T170000
 DTEND;TZID=Europe/Madrid:20260804T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3377,7 +3368,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 0H802 | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-08-06-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260806T170000
 DTEND;TZID=Europe/Madrid:20260806T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3387,7 +3378,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 0H802 | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-08-07-mati-2640@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260807T093000
 DTEND;TZID=Europe/Madrid:20260807T133000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -3396,7 +3387,7 @@ DESCRIPTION:ID oficial (PDF): 2640 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-08-07-tarda-2640A@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260807T173000
 DTEND;TZID=Europe/Madrid:20260807T213000
 SUMMARY:Sabadell - Parada Plaça Dr. Robert (ONLY PDF)
@@ -3406,7 +3397,7 @@ DESCRIPTION:ID oficial (PDF): 2640A | Sense correspondència al Planificaci
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-08-11-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260811T170000
 DTEND;TZID=Europe/Madrid:20260811T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3416,7 +3407,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 0H802 | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-08-13-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260813T170000
 DTEND;TZID=Europe/Madrid:20260813T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3426,7 +3417,7 @@ DESCRIPTION:PF (2 màquines) | ID oficial (PDF): 0H802 | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-08-18-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260818T170000
 DTEND;TZID=Europe/Madrid:20260818T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3436,7 +3427,7 @@ DESCRIPTION:PF (1 màquines) | ID oficial (PDF): 0H802 | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-08-20-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260820T170000
 DTEND;TZID=Europe/Madrid:20260820T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3446,7 +3437,7 @@ DESCRIPTION:PF (1 màquines) | ID oficial (PDF): 0H802 | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-08-25-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260825T170000
 DTEND;TZID=Europe/Madrid:20260825T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3456,7 +3447,7 @@ DESCRIPTION:PF (1 màquines) | ID oficial (PDF): 0H802 | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-08-27-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260827T170000
 DTEND;TZID=Europe/Madrid:20260827T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3466,7 +3457,7 @@ DESCRIPTION:PF (1 màquines) | ID oficial (PDF): 0H802 | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-09-01-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260901T170000
 DTEND;TZID=Europe/Madrid:20260901T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3476,7 +3467,7 @@ DESCRIPTION:PF (1 màquines) | ID oficial (PDF): 0H802 | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-09-03-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260903T170000
 DTEND;TZID=Europe/Madrid:20260903T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3486,7 +3477,7 @@ DESCRIPTION:PF (1 màquines) | ID oficial (PDF): 0H802 | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-09-08-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260908T170000
 DTEND;TZID=Europe/Madrid:20260908T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3496,7 +3487,7 @@ DESCRIPTION:PF (1 màquines) | ID oficial (PDF): 0H802 | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-09-10-mati-0890@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260910T090000
 DTEND;TZID=Europe/Madrid:20260910T133000
 SUMMARY:HOSPITALET LL. Hosp. Duran i Reynals-EM Av. Gran Via\, s/n - km. 2\
@@ -3508,7 +3499,7 @@ DESCRIPTION:ID oficial (PDF): 0890 | Sense correspondència al Planificacio
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-09-10-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260910T170000
 DTEND;TZID=Europe/Madrid:20260910T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3518,7 +3509,7 @@ DESCRIPTION:PF (1 màquines) | ID oficial (PDF): 0H802 | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-09-15-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260915T170000
 DTEND;TZID=Europe/Madrid:20260915T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
@@ -3528,7 +3519,7 @@ DESCRIPTION:PF (1 màquines) | ID oficial (PDF): 0H802 | Sense correspondè
 END:VEVENT
 BEGIN:VEVENT
 UID:bst-pdf-2026-09-17-tarda-0H802@bst-donacions
-DTSTAMP:20260821T101629Z
+DTSTAMP:20260821T102122Z
 DTSTART;TZID=Europe/Madrid:20260917T170000
 DTEND;TZID=Europe/Madrid:20260917T210000
 SUMMARY:Hospitalet - Santa Eulàlia (ONLY PDF)
